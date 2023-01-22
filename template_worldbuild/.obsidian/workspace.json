@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "5956811e91c3e4f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71c8ccf7cd12e54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44eb7617440b59f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Locations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab768ac203cab47d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e0f05ac0a7e3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be5a2b68df6ec67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5420f194b6037bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "991ac340dcacd212",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "00073f033245567f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "b4965ebd78dce612",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f88eba8f5e6f9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eeabecd5c5a134b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Locations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f34642fcf0b93b58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Locations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffc49d061a61310c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b0eb6eb3412faf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Locations.md"
+              }
+            }
+          },
+          {
+            "id": "5ac590876b2ecb60",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f7f5a9c585189ef",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "c57d1a135130953b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "e90b3c4ac14d3345",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "84b546d67d5bd718",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 532.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "44eb7617440b59f1",
+  "lastOpenFiles": [
+    "Templates/Location- Establishment.md",
+    "Templates/Groups- Commercial.md",
+    "Templates/Location- Settlement.md",
+    "Templates/Location- Landmark.md",
+    "Locations/Locations.md",
+    "Templates/Event.md",
+    "Documentation/Documentation.md",
+    "Events/Events.md",
+    "Groups/Groups.md",
+    "Templates/Location- Natural.md"
+  ]
+}
