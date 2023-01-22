@@ -2,6 +2,7 @@
 tags:
 - documentation
 ---
+# Documentation
 The documentation folder exists to outline useful tips for managing the worldbuilding template. It includes documentation for plugins/integrations that are difficult to use.
 # Table of Contents
 %% Begin Waypoint %%

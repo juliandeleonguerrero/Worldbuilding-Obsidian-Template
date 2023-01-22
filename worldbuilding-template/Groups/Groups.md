@@ -4,7 +4,7 @@ tags:
 ---
 # Groups
 If the organization exists and is worth mentioning, it should be stored here. 
-## Creating a new group
+# Folder Organization
 There are six group types accounted for in the templates. There is no harm in picking the wrong template initially- it is easy to re-tag an article and edit it to your tastes.
 ### Combat
 Combat groups include armies, military units, bandit groups, and other armed organizations.

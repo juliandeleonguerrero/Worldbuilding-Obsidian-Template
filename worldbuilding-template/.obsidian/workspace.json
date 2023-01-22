@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5964538509e02d8c",
+        "id": "180b58bfa1585405",
         "type": "tabs",
         "children": [
           {
-            "id": "15d97b5f6c6437dc",
+            "id": "480573127bb327c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Group- Political.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0267a168bb3963f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5cccc716998081e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Templates/Kanban.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Kanban.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,17 +198,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7be5a2b68df6ec67",
+  "active": "480573127bb327c9",
   "lastOpenFiles": [
-    "Culture/Customs.md",
-    "Documentation/Documentation.md",
+    "Locations/Locations.md",
     "Groups/Groups.md",
-    "Templates/Group- General.md",
-    "Templates/Group- Political.md",
-    "Templates/Group- Commercial.md",
-    "Templates/Group- Religious.md",
-    "Documentation/Callouts.md",
-    "Templates/Character.md",
-    "Templates/Event.md"
+    "Events/Events.md",
+    "Documentation/Documentation.md",
+    "Characters/Characters.md",
+    "Forms of Life/Forms of Life.md",
+    "Society/Society.md",
+    "Narrative and Planning/Narrative and Planning.md",
+    "Narrative and Planning/About/About.md",
+    "Narrative and Planning/Storylines/Storylines.md"
   ]
 }

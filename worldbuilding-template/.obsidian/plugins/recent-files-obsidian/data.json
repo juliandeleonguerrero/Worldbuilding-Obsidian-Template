@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Kanban",
-      "path": "Templates/Kanban.md"
+      "basename": "Locations",
+      "path": "Locations/Locations.md"
+    },
+    {
+      "basename": "Groups",
+      "path": "Groups/Groups.md"
+    },
+    {
+      "basename": "Events",
+      "path": "Events/Events.md"
     },
     {
       "basename": "Documentation",
       "path": "Documentation/Documentation.md"
     },
     {
-      "basename": "Groups",
-      "path": "Groups/Groups.md"
+      "basename": "Characters",
+      "path": "Characters/Characters.md"
+    },
+    {
+      "basename": "Forms of Life",
+      "path": "Forms of Life/Forms of Life.md"
+    },
+    {
+      "basename": "Society",
+      "path": "Society/Society.md"
+    },
+    {
+      "basename": "Narrative and Planning",
+      "path": "Narrative and Planning/Narrative and Planning.md"
+    },
+    {
+      "basename": "About",
+      "path": "Narrative and Planning/About/About.md"
+    },
+    {
+      "basename": "Storylines",
+      "path": "Narrative and Planning/Storylines/Storylines.md"
+    },
+    {
+      "basename": "Session Notes",
+      "path": "Narrative and Planning/Session Notes/Session Notes.md"
+    },
+    {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
+    },
+    {
+      "basename": "Plan- Session Notes",
+      "path": "Templates/Plan- Session Notes.md"
+    },
+    {
+      "basename": "Location- Cosmology",
+      "path": "Templates/Location- Cosmology.md"
+    },
+    {
+      "basename": "Location- Establishment",
+      "path": "Templates/Location- Establishment.md"
+    },
+    {
+      "basename": "Location- Region",
+      "path": "Templates/Location- Region.md"
+    },
+    {
+      "basename": "Location- Natural",
+      "path": "Templates/Location- Natural.md"
+    },
+    {
+      "basename": "Location- Landmark",
+      "path": "Templates/Location- Landmark.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Character.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Templates/Kanban.md"
     },
     {
       "basename": "Group- General",
@@ -33,36 +101,12 @@
       "path": "Documentation/Callouts.md"
     },
     {
-      "basename": "Character",
-      "path": "Templates/Character.md"
-    },
-    {
       "basename": "Event",
       "path": "Templates/Event.md"
     },
     {
-      "basename": "Group- Combat",
-      "path": "Templates/Group- Combat.md"
-    },
-    {
-      "basename": "Location- Region",
-      "path": "Templates/Location- Region.md"
-    },
-    {
       "basename": "Location- Settlement",
       "path": "Templates/Location- Settlement.md"
-    },
-    {
-      "basename": "Location- Natural",
-      "path": "Templates/Location- Natural.md"
-    },
-    {
-      "basename": "Location- Landmark",
-      "path": "Templates/Location- Landmark.md"
-    },
-    {
-      "basename": "Location- Establishment",
-      "path": "Templates/Location- Establishment.md"
     },
     {
       "basename": "Group- Population",
@@ -73,20 +117,8 @@
       "path": "Documentation/Help- Obsidian Timelines.md"
     },
     {
-      "basename": "Characters",
-      "path": "Characters/Characters.md"
-    },
-    {
       "basename": "Help- Leaflet Documentation",
       "path": "Documentation/Help- Leaflet Documentation.md"
-    },
-    {
-      "basename": "Locations",
-      "path": "Locations/Locations.md"
-    },
-    {
-      "basename": "Events",
-      "path": "Events/Events.md"
     },
     {
       "basename": "Gods",

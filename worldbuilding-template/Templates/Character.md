@@ -13,8 +13,10 @@ tags:
 > | Occupation/Class | |
 > | Residence |  |
 > | Birthplace |  |
+> | Birth Date |   |
 > | Status |  |
 > | Languages |  |
+> | Relatives |   |
 # About
 -
 # History
