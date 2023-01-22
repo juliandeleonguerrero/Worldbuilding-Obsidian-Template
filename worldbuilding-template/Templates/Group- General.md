@@ -1,6 +1,6 @@
 ---
 tags:
-- combat
+- general-group
 - group
 ---
 > [!infobox]
@@ -10,16 +10,14 @@ tags:
 > | Type |  |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Member Count |   |
-> | Headquarters/Base | |
+> | Headquarters | |
 > | Leader(s) |  |
+> | Member Count |   |
+| Ideology/Beliefs |   |
 > | Languages |  |
 > | Status |  |
 
 # Description
-## About
--
-## Abilities
 -
 # History
 -

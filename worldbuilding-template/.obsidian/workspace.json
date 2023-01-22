@@ -11,13 +11,38 @@
             "id": "15d97b5f6c6437dc",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Group- Political.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0267a168bb3963f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5cccc716998081e",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "Templates/Kanban.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -46,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#med-priority",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 285.5
   },
   "right": {
     "id": "b4965ebd78dce612",
@@ -103,14 +128,12 @@
             }
           },
           {
-            "id": "f34642fcf0b93b58",
+            "id": "9b0eb6eb3412faf9",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "file": "Templates/Kanban.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Templates/Kanban.md"
               }
             }
           },
@@ -126,12 +149,14 @@
             }
           },
           {
-            "id": "9b0eb6eb3412faf9",
+            "id": "f34642fcf0b93b58",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "Templates/Kanban.md"
+                "file": "Templates/Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -188,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,17 +229,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "15d97b5f6c6437dc",
+  "active": "7be5a2b68df6ec67",
   "lastOpenFiles": [
-    "Templates/Location- Landmark.md",
-    "Templates/Group- Religious.md",
-    "Templates/Group- Population.md",
-    "Templates/Group- Commercial.md",
+    "Culture/Customs.md",
+    "Documentation/Documentation.md",
+    "Groups/Groups.md",
+    "Templates/Group- General.md",
     "Templates/Group- Political.md",
-    "Templates/Character.md",
+    "Templates/Group- Commercial.md",
+    "Templates/Group- Religious.md",
     "Documentation/Callouts.md",
-    "Documentation/Help- Leaflet Documentation.md",
-    "Templates/Group- Combat.md",
-    "Templates/Kanban.md"
+    "Templates/Character.md",
+    "Templates/Event.md"
   ]
 }

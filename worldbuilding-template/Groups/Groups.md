@@ -11,7 +11,7 @@ Combat groups include armies, military units, bandit groups, and other armed org
 ### Commercial
 Commercial groups include corporations, guilds, banks, and other businesses.
 ### General
-Groups not accounted for by the other group types.
+Groups not accounted for by the other group types. These might include clubs, or some academic organizations.
 ### Political
 Political groups include governments, civic groups, political parties, and any other politically-focused polity.
 ### Religious

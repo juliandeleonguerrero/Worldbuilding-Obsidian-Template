@@ -18,11 +18,11 @@ tag:
 > ###### Details
 > | Event Type |  |
 > | ---- | ---- |
-> | Dated Started |  |
-> | Dated Ended |  |
+> | Date Started |  |
+> | Date Ended |  |
 > | Prominent Actors |  |
 > | Location |  |
-> 
+> | Result |  |
 # Background
 -
 # Description

@@ -5,48 +5,80 @@
       "path": "Templates/Kanban.md"
     },
     {
-      "basename": "Location- Landmark",
-      "path": "Templates/Location- Landmark.md"
+      "basename": "Documentation",
+      "path": "Documentation/Documentation.md"
     },
     {
-      "basename": "Group- Religious",
-      "path": "Templates/Group- Religious.md"
+      "basename": "Groups",
+      "path": "Groups/Groups.md"
     },
     {
-      "basename": "Group- Population",
-      "path": "Templates/Group- Population.md"
-    },
-    {
-      "basename": "Group- Commercial",
-      "path": "Templates/Group- Commercial.md"
+      "basename": "Group- General",
+      "path": "Templates/Group- General.md"
     },
     {
       "basename": "Group- Political",
       "path": "Templates/Group- Political.md"
     },
     {
-      "basename": "Character",
-      "path": "Templates/Character.md"
+      "basename": "Group- Commercial",
+      "path": "Templates/Group- Commercial.md"
+    },
+    {
+      "basename": "Group- Religious",
+      "path": "Templates/Group- Religious.md"
     },
     {
       "basename": "Callouts",
       "path": "Documentation/Callouts.md"
     },
     {
-      "basename": "Help- Leaflet Documentation",
-      "path": "Documentation/Help- Leaflet Documentation.md"
-    },
-    {
-      "basename": "Group- Combat",
-      "path": "Templates/Group- Combat.md"
+      "basename": "Character",
+      "path": "Templates/Character.md"
     },
     {
       "basename": "Event",
       "path": "Templates/Event.md"
     },
     {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
+    },
+    {
+      "basename": "Location- Region",
+      "path": "Templates/Location- Region.md"
+    },
+    {
       "basename": "Location- Settlement",
       "path": "Templates/Location- Settlement.md"
+    },
+    {
+      "basename": "Location- Natural",
+      "path": "Templates/Location- Natural.md"
+    },
+    {
+      "basename": "Location- Landmark",
+      "path": "Templates/Location- Landmark.md"
+    },
+    {
+      "basename": "Location- Establishment",
+      "path": "Templates/Location- Establishment.md"
+    },
+    {
+      "basename": "Group- Population",
+      "path": "Templates/Group- Population.md"
+    },
+    {
+      "basename": "Help- Obsidian Timelines",
+      "path": "Documentation/Help- Obsidian Timelines.md"
+    },
+    {
+      "basename": "Characters",
+      "path": "Characters/Characters.md"
+    },
+    {
+      "basename": "Help- Leaflet Documentation",
+      "path": "Documentation/Help- Leaflet Documentation.md"
     },
     {
       "basename": "Locations",
@@ -57,40 +89,12 @@
       "path": "Events/Events.md"
     },
     {
-      "basename": "Location- Region",
-      "path": "Templates/Location- Region.md"
-    },
-    {
-      "basename": "Location- Natural",
-      "path": "Templates/Location- Natural.md"
-    },
-    {
-      "basename": "Location- Establishment",
-      "path": "Templates/Location- Establishment.md"
-    },
-    {
-      "basename": "Characters",
-      "path": "Characters/Characters.md"
-    },
-    {
       "basename": "Gods",
       "path": "Characters/Gods/Gods.md"
     },
     {
-      "basename": "Documentation",
-      "path": "Documentation/Documentation.md"
-    },
-    {
-      "basename": "Groups",
-      "path": "Groups/Groups.md"
-    },
-    {
       "basename": "Using with Foundry VTT",
       "path": "Documentation/Using with Foundry VTT.md"
-    },
-    {
-      "basename": "Help- Obsidian Timelines",
-      "path": "Documentation/Help- Obsidian Timelines.md"
     }
   ],
   "omittedPaths": [],
