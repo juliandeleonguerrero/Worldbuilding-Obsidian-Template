@@ -1,10 +1,13 @@
 ---
 tags:
 - location
-- landmark
+- region
 ---
 # Table of Contents
 - [[#Description|Description]]
+	- [[#Description#About|About]]
+	- [[#Description#Features|Features]]
+	- [[#Description#Ecology|Ecology]]
 - [[#History|History]]
 - [[#Other Notes|Other Notes]]
 
@@ -15,10 +18,20 @@ tags:
 > | Location Type |   |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Region |  |
-> | Size |  |
+> | Area |  |
+> | Prominent locations within {{title}} |   |
+
 
 # Description
+## About
+-
+## Features
+-
+## Ecology
+-
+## Populations
+-
+## Climate
 -
 # History
 -

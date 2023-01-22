@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Groups",
+      "path": "Groups/Groups.md"
+    },
+    {
       "basename": "Locations",
       "path": "Locations/Locations.md"
     },
     {
-      "basename": "Location- Establishment",
-      "path": "Templates/Location- Establishment.md"
+      "basename": "Group- Population",
+      "path": "Templates/Group- Population.md"
+    },
+    {
+      "basename": "Group- Political",
+      "path": "Templates/Group- Political.md"
     },
     {
       "basename": "Groups- Commercial",
       "path": "Templates/Groups- Commercial.md"
     },
     {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
+    },
+    {
+      "basename": "Location- Natural",
+      "path": "Templates/Location- Natural.md"
+    },
+    {
       "basename": "Location- Settlement",
       "path": "Templates/Location- Settlement.md"
     },
     {
+      "basename": "Location- Region",
+      "path": "Templates/Location- Region.md"
+    },
+    {
       "basename": "Location- Landmark",
       "path": "Templates/Location- Landmark.md"
+    },
+    {
+      "basename": "Location- Establishment",
+      "path": "Templates/Location- Establishment.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Character.md"
     },
     {
       "basename": "Event",
@@ -31,26 +59,6 @@
     {
       "basename": "Events",
       "path": "Events/Events.md"
-    },
-    {
-      "basename": "Groups",
-      "path": "Groups/Groups.md"
-    },
-    {
-      "basename": "Location- Natural",
-      "path": "Templates/Location- Natural.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Templates/Character.md"
-    },
-    {
-      "basename": "Group- Combat",
-      "path": "Templates/Group- Combat.md"
-    },
-    {
-      "basename": "Group- Political",
-      "path": "Templates/Group- Political.md"
     },
     {
       "basename": "Using with Foundry VTT",

@@ -29,5 +29,7 @@ tags:
 -
 # History
 -
+# Significant locations in {{title}}
+-
 # Other Notes
 -

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44eb7617440b59f1",
+            "id": "3f954112da29d85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Locations.md",
+                "file": "Groups/Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Locations.md",
+                "file": "Groups/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Locations.md",
+                "file": "Groups/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Locations.md"
+                "file": "Groups/Groups.md"
               }
             }
           },
@@ -200,17 +200,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "44eb7617440b59f1",
+  "active": "3f954112da29d85f",
   "lastOpenFiles": [
-    "Templates/Location- Establishment.md",
-    "Templates/Groups- Commercial.md",
-    "Templates/Location- Settlement.md",
-    "Templates/Location- Landmark.md",
     "Locations/Locations.md",
-    "Templates/Event.md",
-    "Documentation/Documentation.md",
-    "Events/Events.md",
     "Groups/Groups.md",
-    "Templates/Location- Natural.md"
+    "Templates/Group- Population.md",
+    "Templates/Group- Political.md",
+    "Templates/Groups- Commercial.md",
+    "Templates/Group- Combat.md",
+    "Templates/Location- Natural.md",
+    "Templates/Location- Settlement.md",
+    "Templates/Location- Region.md",
+    "Locations/Sumera.md"
   ]
 }
