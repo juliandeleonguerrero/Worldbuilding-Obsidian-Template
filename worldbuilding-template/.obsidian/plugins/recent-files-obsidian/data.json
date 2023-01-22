@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled Kanban",
-      "path": "Templates/Untitled Kanban.md"
+      "basename": "Kanban",
+      "path": "Templates/Kanban.md"
+    },
+    {
+      "basename": "Location- Landmark",
+      "path": "Templates/Location- Landmark.md"
+    },
+    {
+      "basename": "Group- Religious",
+      "path": "Templates/Group- Religious.md"
+    },
+    {
+      "basename": "Group- Population",
+      "path": "Templates/Group- Population.md"
+    },
+    {
+      "basename": "Group- Commercial",
+      "path": "Templates/Group- Commercial.md"
+    },
+    {
+      "basename": "Group- Political",
+      "path": "Templates/Group- Political.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Character.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "Documentation/Callouts.md"
+    },
+    {
+      "basename": "Help- Leaflet Documentation",
+      "path": "Documentation/Help- Leaflet Documentation.md"
+    },
+    {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
     },
     {
       "basename": "Event",
@@ -29,36 +65,8 @@
       "path": "Templates/Location- Natural.md"
     },
     {
-      "basename": "Location- Landmark",
-      "path": "Templates/Location- Landmark.md"
-    },
-    {
       "basename": "Location- Establishment",
       "path": "Templates/Location- Establishment.md"
-    },
-    {
-      "basename": "Group- Religious",
-      "path": "Templates/Group- Religious.md"
-    },
-    {
-      "basename": "Group- Population",
-      "path": "Templates/Group- Population.md"
-    },
-    {
-      "basename": "Group- Political",
-      "path": "Templates/Group- Political.md"
-    },
-    {
-      "basename": "Group- Commercial",
-      "path": "Templates/Group- Commercial.md"
-    },
-    {
-      "basename": "Group- Combat",
-      "path": "Templates/Group- Combat.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Templates/Character.md"
     },
     {
       "basename": "Characters",
@@ -79,14 +87,6 @@
     {
       "basename": "Using with Foundry VTT",
       "path": "Documentation/Using with Foundry VTT.md"
-    },
-    {
-      "basename": "Callouts",
-      "path": "Documentation/Callouts.md"
-    },
-    {
-      "basename": "Help- Leaflet Documentation",
-      "path": "Documentation/Help- Leaflet Documentation.md"
     },
     {
       "basename": "Help- Obsidian Timelines",

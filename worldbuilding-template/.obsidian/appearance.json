@@ -1,4 +1,7 @@
 {
-  "accentColor": "#ff1414",
-  "cssTheme": "ITS Theme"
+  "accentColor": "#8b1313",
+  "cssTheme": "ITS Theme",
+  "translucency": false,
+  "theme": "obsidian",
+  "nativeMenus": false
 }
