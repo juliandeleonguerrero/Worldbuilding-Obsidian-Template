@@ -1,6 +1,6 @@
 ---
 tags:
-- combat
+- political
 - group
 ---
 > [!infobox]
@@ -10,13 +10,16 @@ tags:
 > | Type |  |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Member Count |   |
-> | Headquarters/Base | |
+> | Headquarters/Capital | |
 > | Leader(s) |  |
+> | Member Count |   |
+| Ideology/Beliefs |   |
 > | Languages |  |
 > | Status |  |
 
 # Description
 -
 # History
+-
+# Organization
 -

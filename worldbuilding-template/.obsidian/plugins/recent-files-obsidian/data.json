@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Characters",
+      "path": "Characters/Characters.md"
+    },
+    {
+      "basename": "Gods",
+      "path": "Characters/Gods/Gods.md"
+    },
+    {
+      "basename": "Documentation",
+      "path": "Documentation/Documentation.md"
+    },
+    {
+      "basename": "Events",
+      "path": "Events/Events.md"
+    },
+    {
       "basename": "Groups",
       "path": "Groups/Groups.md"
     },
@@ -9,20 +25,28 @@
       "path": "Locations/Locations.md"
     },
     {
-      "basename": "Group- Population",
-      "path": "Templates/Group- Population.md"
+      "basename": "Group- Commercial",
+      "path": "Templates/Group- Commercial.md"
+    },
+    {
+      "basename": "Group- Religious",
+      "path": "Templates/Group- Religious.md"
+    },
+    {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
     },
     {
       "basename": "Group- Political",
       "path": "Templates/Group- Political.md"
     },
     {
-      "basename": "Groups- Commercial",
-      "path": "Templates/Groups- Commercial.md"
+      "basename": "Group- Population",
+      "path": "Templates/Group- Population.md"
     },
     {
-      "basename": "Group- Combat",
-      "path": "Templates/Group- Combat.md"
+      "basename": "Character",
+      "path": "Templates/Character.md"
     },
     {
       "basename": "Location- Natural",
@@ -45,20 +69,8 @@
       "path": "Templates/Location- Establishment.md"
     },
     {
-      "basename": "Character",
-      "path": "Templates/Character.md"
-    },
-    {
       "basename": "Event",
       "path": "Templates/Event.md"
-    },
-    {
-      "basename": "Documentation",
-      "path": "Documentation/Documentation.md"
-    },
-    {
-      "basename": "Events",
-      "path": "Events/Events.md"
     },
     {
       "basename": "Using with Foundry VTT",
@@ -67,14 +79,6 @@
     {
       "basename": "Callouts",
       "path": "Documentation/Callouts.md"
-    },
-    {
-      "basename": "Gods",
-      "path": "Characters/Gods/Gods.md"
-    },
-    {
-      "basename": "Characters",
-      "path": "Characters/Characters.md"
     },
     {
       "basename": "Help- Leaflet Documentation",

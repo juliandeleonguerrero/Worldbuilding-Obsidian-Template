@@ -1,6 +1,6 @@
 ---
 tags:
-- political
+- population
 - group
 ---
 > [!infobox]
@@ -10,14 +10,13 @@ tags:
 > | Type |  |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Headquarters/Capital | |
-> | Leader(s) |  |
+> | Location(s) |   |
 > | Member Count |   |
-| Ideology/Beliefs |   |
+| Prominent Ideologies/Beliefs |   |
 > | Languages |  |
-> | Status |  |
 
 # Description
 -
 # History
 -
+# Culture

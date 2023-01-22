@@ -12,5 +12,3 @@ Characters are placed within this folder. Ideally, each character should have th
 - **[[Gods]]**
 
 %% End Waypoint %%
-- **[[Gods]]**
-	- [[Cronus]]%% End Waypoint %%

@@ -1,6 +1,6 @@
 ---
 tags:
-- population
+- religious
 - group
 ---
 > [!infobox]
@@ -10,12 +10,27 @@ tags:
 > | Type |  |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Location(s) |   |
+> | Headquarters/Capital | |
+> | Origin |  |
+> | Leader(s) |  |
 > | Member Count |   |
-| Prominent Ideologies/Beliefs |   |
+| Ideology/Beliefs |   |
 > | Languages |  |
+> | Status |  |
 
 # Description
 -
 # History
+-
+# Organization
+-
+# Culture
+-
+## Beliefs
+-
+## Practices
+-
+## Holidays
+-
+## Important Media
 -

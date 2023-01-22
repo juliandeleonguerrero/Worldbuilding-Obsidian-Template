@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Groups.md",
+                "file": "Characters/Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/Groups.md",
+                "file": "Characters/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/Groups.md",
+                "file": "Characters/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/Groups.md"
+                "file": "Characters/Characters.md"
               }
             }
           },
@@ -176,9 +176,17 @@
               "type": "BC-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "0d16964318298df9",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -202,15 +210,15 @@
   },
   "active": "3f954112da29d85f",
   "lastOpenFiles": [
-    "Locations/Locations.md",
+    "Characters/Gods/Gods.md",
+    "Characters/Characters.md",
+    "Cronus.md",
+    "Documentation/Documentation.md",
+    "Events/Events.md",
     "Groups/Groups.md",
-    "Templates/Group- Population.md",
-    "Templates/Group- Political.md",
-    "Templates/Groups- Commercial.md",
-    "Templates/Group- Combat.md",
-    "Templates/Location- Natural.md",
-    "Templates/Location- Settlement.md",
-    "Templates/Location- Region.md",
-    "Locations/Sumera.md"
+    "Locations/Locations.md",
+    "Templates/Group- Commercial.md",
+    "Templates/Group- Religious.md",
+    "Templates/Group- Combat.md"
   ]
 }

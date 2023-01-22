@@ -1,6 +1,6 @@
 ---
 tags:
-- commercial
+- combat
 - group
 ---
 > [!infobox]
@@ -10,12 +10,15 @@ tags:
 > | Type |  |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Headquarters | |
-> | Leader(s) |  |
 > | Member Count |   |
-> | Wealth/Class |   |
+> | Headquarters/Base | |
+> | Leader(s) |  |
+> | Languages |  |
+> | Status |  |
 
 # Description
 -
 # History
+-
+# Organization
 -
