@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "Untitled Kanban",
-      "path": "Planning/Untitled Kanban.md"
+      "path": "Templates/Untitled Kanban.md"
+    },
+    {
+      "basename": "Event",
+      "path": "Templates/Event.md"
     },
     {
       "basename": "Location- Settlement",
@@ -51,10 +55,6 @@
     {
       "basename": "Group- Combat",
       "path": "Templates/Group- Combat.md"
-    },
-    {
-      "basename": "Event",
-      "path": "Templates/Event.md"
     },
     {
       "basename": "Character",

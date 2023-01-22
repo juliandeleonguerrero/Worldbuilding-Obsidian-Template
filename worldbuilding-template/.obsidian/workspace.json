@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Planning/Untitled Kanban.md"
+                "file": "Templates/Untitled Kanban.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Untitled Kanban.md",
+                "file": "Templates/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning/Untitled Kanban.md",
+                "file": "Templates/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning/Untitled Kanban.md"
+                "file": "Templates/Untitled Kanban.md"
               }
             }
           },
@@ -206,15 +206,15 @@
   },
   "active": "3d25e8bdda85e8f8",
   "lastOpenFiles": [
-    "Planning/Untitled.canvas",
+    "Templates/Event.md",
     "Planning/Untitled Kanban.md",
+    "Planning/Untitled.canvas",
     "Planning/Example Card.md",
     "Locations/Locations.md",
     "Events/Events.md",
     "Untitled.md",
     "Templates/Location- Settlement.md",
     "Templates/Location- Region.md",
-    "Templates/Location- Natural.md",
-    "Templates/Location- Landmark.md"
+    "Templates/Location- Natural.md"
   ]
 }
