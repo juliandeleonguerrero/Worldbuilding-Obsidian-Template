@@ -4,7 +4,6 @@ tags:
 - location
 - establishment
 ---
-
 > [!infobox]
 > # `{{title}}`
 > ![[Image.png|cover hsmall]]

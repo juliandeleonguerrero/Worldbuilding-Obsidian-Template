@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Kanban",
+      "path": "Planning/Untitled Kanban.md"
+    },
+    {
+      "basename": "Location- Settlement",
+      "path": "Templates/Location- Settlement.md"
+    },
+    {
+      "basename": "Locations",
+      "path": "Locations/Locations.md"
+    },
+    {
+      "basename": "Events",
+      "path": "Events/Events.md"
+    },
+    {
+      "basename": "Location- Region",
+      "path": "Templates/Location- Region.md"
+    },
+    {
+      "basename": "Location- Natural",
+      "path": "Templates/Location- Natural.md"
+    },
+    {
+      "basename": "Location- Landmark",
+      "path": "Templates/Location- Landmark.md"
+    },
+    {
+      "basename": "Location- Establishment",
+      "path": "Templates/Location- Establishment.md"
+    },
+    {
+      "basename": "Group- Religious",
+      "path": "Templates/Group- Religious.md"
+    },
+    {
+      "basename": "Group- Population",
+      "path": "Templates/Group- Population.md"
+    },
+    {
+      "basename": "Group- Political",
+      "path": "Templates/Group- Political.md"
+    },
+    {
+      "basename": "Group- Commercial",
+      "path": "Templates/Group- Commercial.md"
+    },
+    {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
+    },
+    {
+      "basename": "Event",
+      "path": "Templates/Event.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Character.md"
+    },
+    {
       "basename": "Characters",
       "path": "Characters/Characters.md"
     },
@@ -13,64 +73,8 @@
       "path": "Documentation/Documentation.md"
     },
     {
-      "basename": "Events",
-      "path": "Events/Events.md"
-    },
-    {
       "basename": "Groups",
       "path": "Groups/Groups.md"
-    },
-    {
-      "basename": "Locations",
-      "path": "Locations/Locations.md"
-    },
-    {
-      "basename": "Group- Commercial",
-      "path": "Templates/Group- Commercial.md"
-    },
-    {
-      "basename": "Group- Religious",
-      "path": "Templates/Group- Religious.md"
-    },
-    {
-      "basename": "Group- Combat",
-      "path": "Templates/Group- Combat.md"
-    },
-    {
-      "basename": "Group- Political",
-      "path": "Templates/Group- Political.md"
-    },
-    {
-      "basename": "Group- Population",
-      "path": "Templates/Group- Population.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Templates/Character.md"
-    },
-    {
-      "basename": "Location- Natural",
-      "path": "Templates/Location- Natural.md"
-    },
-    {
-      "basename": "Location- Settlement",
-      "path": "Templates/Location- Settlement.md"
-    },
-    {
-      "basename": "Location- Region",
-      "path": "Templates/Location- Region.md"
-    },
-    {
-      "basename": "Location- Landmark",
-      "path": "Templates/Location- Landmark.md"
-    },
-    {
-      "basename": "Location- Establishment",
-      "path": "Templates/Location- Establishment.md"
-    },
-    {
-      "basename": "Event",
-      "path": "Templates/Event.md"
     },
     {
       "basename": "Using with Foundry VTT",

@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d71c8ccf7cd12e54",
+        "id": "ba7217dd12277310",
         "type": "tabs",
         "children": [
           {
-            "id": "3f954112da29d85f",
+            "id": "3d25e8bdda85e8f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Characters/Characters.md",
-                "mode": "source",
-                "source": false
+                "file": "Planning/Untitled Kanban.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Planning/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Planning/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Characters.md"
+                "file": "Planning/Untitled Kanban.md"
               }
             }
           },
@@ -186,11 +184,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 751.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,23 +200,21 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3f954112da29d85f",
+  "active": "3d25e8bdda85e8f8",
   "lastOpenFiles": [
-    "Characters/Gods/Gods.md",
-    "Characters/Characters.md",
-    "Cronus.md",
-    "Documentation/Documentation.md",
-    "Events/Events.md",
-    "Groups/Groups.md",
+    "Planning/Untitled.canvas",
+    "Planning/Untitled Kanban.md",
+    "Planning/Example Card.md",
     "Locations/Locations.md",
-    "Templates/Group- Commercial.md",
-    "Templates/Group- Religious.md",
-    "Templates/Group- Combat.md"
+    "Events/Events.md",
+    "Untitled.md",
+    "Templates/Location- Settlement.md",
+    "Templates/Location- Region.md",
+    "Templates/Location- Natural.md",
+    "Templates/Location- Landmark.md"
   ]
 }

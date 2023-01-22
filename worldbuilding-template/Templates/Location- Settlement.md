@@ -3,13 +3,6 @@ tags:
 - location
 - settlement
 ---
-# Table of Contents
-- [[#Description|Description]]
-- [[#History|History]]
-- [[#Culture|Culture]]
-- [[#Other Notes|Other Notes]]
-
-
 > [!infobox]
 > # `{{title}}`
 > ![[Image.png|cover hsmall]]

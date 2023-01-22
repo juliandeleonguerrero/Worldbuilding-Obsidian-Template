@@ -12,9 +12,6 @@ tag:
 	  data-type='range' 
 	  data-end='2000-10-20-00'> 
 </span>
-# Table of Contents
-
-
 > [!infobox]
 > # `{{title}}`
 > ![[Image.png|cover hsmall]]
@@ -31,4 +28,4 @@ tag:
 # Description
 -
 # Aftermath
--
+	-

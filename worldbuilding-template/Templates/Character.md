@@ -15,15 +15,11 @@ tags:
 > | Birthplace |  |
 > | Status |  |
 > | Languages |  |
-# Table of Contents
-- [[#Description|Description]]
-- [[#Relationships|Relationships]]
-- [[#Description|Description]]
-- [[#History|History]]
-- [[#Abilities/Combat Style|Abilities/Combat Style]]
-- [[#Other Notes|Other Notes]]
-
-# Description
+# About
+-
+# History
+-
+# Appearance
 -
 # Relationships
 | Characters | Relationship | Notes |
@@ -31,11 +27,7 @@ tags:
 |            |              |       |
 |            |              |       |
 
-# Description
--
-# History
--
-# Abilities/Combat Style
+# Abilities
 -
 # Other Notes
 -
