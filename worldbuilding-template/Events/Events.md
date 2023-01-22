@@ -12,7 +12,6 @@ The default Event template supports the Timeline feature. Near the top of every 
 World builders are encoruaged to create their own events folder and organize it appropriately.
 # Table of Contents
 %% Begin Waypoint %%
-- **History**
-- **Natural**
+
 
 %% End Waypoint %%

@@ -12,9 +12,9 @@ Sometimes called "races" in some popular TTRPGs, this refers to creatures like o
 Sort of a catch-all term, this is meant to contain clearly magical beings that exist within your world.
 # Table of Contents
 %% Begin Waypoint %%
-- **Fauna**
-- **Flora**
-- **Humanoid Species**
-- **Magical**
+- **[[Fauna]]**
+- **[[Flora]]**
+- **[[Humanoid Species]]**
+- **[[Magical]]**
 
 %% End Waypoint %%

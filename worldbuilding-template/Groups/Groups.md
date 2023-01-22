@@ -20,11 +20,11 @@ Religious groups include organized religions, sects within the religion, cults, 
 Population groups include ethnicities, nationalities, cultures, and other broad sections of people.
 # Table of Contents
 %% Begin Waypoint %%
-- **Combat**
-- **Commercial**
-- **General**
-- **Political**
-- **Population**
-- **Religious**
+- **[[Combat]]**
+- **[[Commercial]]**
+- **[[General]]**
+- **[[Political]]**
+- **[[Population]]**
+- **[[Religious]]**
 
 %% End Waypoint %%

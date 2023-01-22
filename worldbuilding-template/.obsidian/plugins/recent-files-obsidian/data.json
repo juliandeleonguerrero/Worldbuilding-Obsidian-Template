@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Resources",
+      "path": "Material/Resources/Resources.md"
+    },
+    {
+      "basename": "Weather",
+      "path": "Material/Weather/Weather.md"
+    },
+    {
+      "basename": "Combat",
+      "path": "Groups/Combat/Combat.md"
+    },
+    {
+      "basename": "Magical",
+      "path": "Forms of Life/Magical/Magical.md"
+    },
+    {
+      "basename": "Humanoid Species",
+      "path": "Forms of Life/Humanoid Species/Humanoid Species.md"
+    },
+    {
+      "basename": "Fauna",
+      "path": "Forms of Life/Fauna/Fauna.md"
+    },
+    {
+      "basename": "Flora",
+      "path": "Forms of Life/Flora/Flora.md"
+    },
+    {
+      "basename": "Forms of Life",
+      "path": "Forms of Life/Forms of Life.md"
+    },
+    {
       "basename": "Locations",
       "path": "Locations/Locations.md"
     },
@@ -19,10 +51,6 @@
     {
       "basename": "Characters",
       "path": "Characters/Characters.md"
-    },
-    {
-      "basename": "Forms of Life",
-      "path": "Forms of Life/Forms of Life.md"
     },
     {
       "basename": "Society",

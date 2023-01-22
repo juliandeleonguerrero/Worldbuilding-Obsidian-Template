@@ -11,8 +11,12 @@
             "id": "480573127bb327c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Material/Resources/Resources.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Material/Resources/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Material/Resources/Resources.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Material/Resources/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,15 +208,15 @@
   },
   "active": "480573127bb327c9",
   "lastOpenFiles": [
-    "Locations/Locations.md",
-    "Groups/Groups.md",
-    "Events/Events.md",
-    "Documentation/Documentation.md",
-    "Characters/Characters.md",
+    "Material/Weather/Weather.md",
+    "Groups/Combat/Combat.md",
+    "Forms of Life/Magical/Magical.md",
+    "Forms of Life/Humanoid Species/Humanoid Species.md",
+    "Forms of Life/Fauna/Fauna.md",
+    "Forms of Life/Flora/Flora.md",
     "Forms of Life/Forms of Life.md",
-    "Society/Society.md",
-    "Narrative and Planning/Narrative and Planning.md",
-    "Narrative and Planning/About/About.md",
-    "Narrative and Planning/Storylines/Storylines.md"
+    "Events/History/History.md",
+    "Locations/Locations.md",
+    "Groups/Groups.md"
   ]
 }
