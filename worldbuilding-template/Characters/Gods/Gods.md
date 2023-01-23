@@ -3,6 +3,8 @@
 tags:
 - god
 - character
+- category
+- religion
 ---
 # Gods
 -

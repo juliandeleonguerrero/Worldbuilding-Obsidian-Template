@@ -3,6 +3,7 @@ tags:
 - species
 - fauna
 - life
+- category
 ---
 # Fauna
 For the birds, the bees, and animals of all kinds.

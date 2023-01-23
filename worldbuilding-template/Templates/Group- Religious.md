@@ -24,13 +24,3 @@ tags:
 -
 # Organization
 -
-# Culture
--
-## Beliefs
--
-## Practices
--
-## Holidays
--
-## Important Media
--

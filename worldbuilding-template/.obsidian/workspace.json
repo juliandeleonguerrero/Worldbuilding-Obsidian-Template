@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "180b58bfa1585405",
+        "id": "458243f7f712fe50",
         "type": "tabs",
         "children": [
           {
-            "id": "ff4f3bc05a5fc72c",
+            "id": "534ee164ab1f06bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Metaphysics/Metaphysics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc9911554dc5672f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Material/Afflictions/Afflictions.md",
+                "file": "Life/Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Metaphysics/Metaphysics.md",
+                "file": "Life/Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Metaphysics/Metaphysics.md"
+                "file": "Life/Life.md"
               }
             }
           },
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Material/Metaphysics/Metaphysics.md",
+                "file": "Life/Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,17 +206,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ff4f3bc05a5fc72c",
+  "active": "534ee164ab1f06bf",
   "lastOpenFiles": [
-    "Material/Maps/Maps.md",
-    "Material/Magic/Magic.md",
     "Material/Material.md",
-    "Material/Afflictions/Afflictions.md",
-    "Locations/Locations.md",
-    "Groups/Religious/Religious.md",
-    "Groups/Population/Population.md",
-    "Groups/Political/Political.md",
-    "Groups/Groups.md",
-    "Groups/General/General.md"
+    "Society/Society.md",
+    "Templates/Society- Education.md",
+    "Templates/Society- Lore.md",
+    "Templates/Society- Economics.md",
+    "Templates/Society- Religion.md",
+    "Templates/Group- Religious.md",
+    "Templates/Society- Occupation.md",
+    "Society/Religion/Religion.md",
+    "Templates/Society- Customs.md"
   ]
 }

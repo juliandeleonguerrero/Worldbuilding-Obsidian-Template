@@ -1,6 +1,7 @@
 ---
 tags:
 - documentation
+- category
 ---
 # Documentation
 The documentation folder exists to outline useful tips for managing the worldbuilding template. It also includes documentation for plugins/integrations included with the worldbuilding template.

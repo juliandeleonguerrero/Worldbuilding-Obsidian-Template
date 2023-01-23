@@ -1,6 +1,182 @@
 {
   "recentFiles": [
     {
+      "basename": "Life",
+      "path": "Life/Life.md"
+    },
+    {
+      "basename": "Material",
+      "path": "Material/Material.md"
+    },
+    {
+      "basename": "Society",
+      "path": "Society/Society.md"
+    },
+    {
+      "basename": "Society- Education",
+      "path": "Templates/Society- Education.md"
+    },
+    {
+      "basename": "Society- Lore",
+      "path": "Templates/Society- Lore.md"
+    },
+    {
+      "basename": "Society- Economics",
+      "path": "Templates/Society- Economics.md"
+    },
+    {
+      "basename": "Society- Religion",
+      "path": "Templates/Society- Religion.md"
+    },
+    {
+      "basename": "Group- Religious",
+      "path": "Templates/Group- Religious.md"
+    },
+    {
+      "basename": "Society- Occupation",
+      "path": "Templates/Society- Occupation.md"
+    },
+    {
+      "basename": "Religion",
+      "path": "Society/Religion/Religion.md"
+    },
+    {
+      "basename": "Society- Customs",
+      "path": "Templates/Society- Customs.md"
+    },
+    {
+      "basename": "Society- Language",
+      "path": "Templates/Society- Language.md"
+    },
+    {
+      "basename": "Society- Art",
+      "path": "Templates/Society- Art.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
+    },
+    {
+      "basename": "Folder Note Template",
+      "path": "Templates/Folder Note Template.md"
+    },
+    {
+      "basename": "Occupations",
+      "path": "Society/Occupations/Occupations.md"
+    },
+    {
+      "basename": "Lore",
+      "path": "Society/Lore/Lore.md"
+    },
+    {
+      "basename": "Language",
+      "path": "Society/Language/Language.md"
+    },
+    {
+      "basename": "Education",
+      "path": "Society/Education/Education.md"
+    },
+    {
+      "basename": "Economics",
+      "path": "Society/Economics/Economics.md"
+    },
+    {
+      "basename": "Customs",
+      "path": "Society/Customs/Customs.md"
+    },
+    {
+      "basename": "Art",
+      "path": "Society/Art/Art.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Character.md"
+    },
+    {
+      "basename": "Event",
+      "path": "Templates/Event.md"
+    },
+    {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
+    },
+    {
+      "basename": "Group- Commercial",
+      "path": "Templates/Group- Commercial.md"
+    },
+    {
+      "basename": "Group- General",
+      "path": "Templates/Group- General.md"
+    },
+    {
+      "basename": "Group- Political",
+      "path": "Templates/Group- Political.md"
+    },
+    {
+      "basename": "Group- Population",
+      "path": "Templates/Group- Population.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Templates/Kanban.md"
+    },
+    {
+      "basename": "Location- Cosmology",
+      "path": "Templates/Location- Cosmology.md"
+    },
+    {
+      "basename": "Location- Establishment",
+      "path": "Templates/Location- Establishment.md"
+    },
+    {
+      "basename": "Location- Landmark",
+      "path": "Templates/Location- Landmark.md"
+    },
+    {
+      "basename": "Location- Natural",
+      "path": "Templates/Location- Natural.md"
+    },
+    {
+      "basename": "Location- Region",
+      "path": "Templates/Location- Region.md"
+    },
+    {
+      "basename": "Location- Settlement",
+      "path": "Templates/Location- Settlement.md"
+    },
+    {
+      "basename": "Plan- Session Notes",
+      "path": "Templates/Plan- Session Notes.md"
+    },
+    {
+      "basename": "Storylines",
+      "path": "Narrative and Planning/Storylines/Storylines.md"
+    },
+    {
+      "basename": "Session Notes",
+      "path": "Narrative and Planning/Session Notes/Session Notes.md"
+    },
+    {
+      "basename": "About",
+      "path": "Narrative and Planning/About/About.md"
+    },
+    {
+      "basename": "Narrative and Planning",
+      "path": "Narrative and Planning/Narrative and Planning.md"
+    },
+    {
+      "basename": "Weather",
+      "path": "Material/Weather/Weather.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Material/Resources/Resources.md"
+    },
+    {
+      "basename": "Objects",
+      "path": "Material/Objects/Objects.md"
+    },
+    {
       "basename": "Metaphysics",
       "path": "Material/Metaphysics/Metaphysics.md"
     },
@@ -13,8 +189,8 @@
       "path": "Material/Magic/Magic.md"
     },
     {
-      "basename": "Material",
-      "path": "Material/Material.md"
+      "basename": "Geography",
+      "path": "Material/Geography/Geography.md"
     },
     {
       "basename": "Afflictions",
@@ -23,182 +199,6 @@
     {
       "basename": "Locations",
       "path": "Locations/Locations.md"
-    },
-    {
-      "basename": "Religious",
-      "path": "Groups/Religious/Religious.md"
-    },
-    {
-      "basename": "Population",
-      "path": "Groups/Population/Population.md"
-    },
-    {
-      "basename": "Political",
-      "path": "Groups/Political/Political.md"
-    },
-    {
-      "basename": "Groups",
-      "path": "Groups/Groups.md"
-    },
-    {
-      "basename": "General",
-      "path": "Groups/General/General.md"
-    },
-    {
-      "basename": "Commercial",
-      "path": "Groups/Commercial/Commercial.md"
-    },
-    {
-      "basename": "Combat",
-      "path": "Groups/Combat/Combat.md"
-    },
-    {
-      "basename": "Magical",
-      "path": "Forms of Life/Magical/Magical.md"
-    },
-    {
-      "basename": "Humanoid Species",
-      "path": "Forms of Life/Humanoid Species/Humanoid Species.md"
-    },
-    {
-      "basename": "Flora",
-      "path": "Forms of Life/Flora/Flora.md"
-    },
-    {
-      "basename": "Fauna",
-      "path": "Forms of Life/Fauna/Fauna.md"
-    },
-    {
-      "basename": "Forms of Life",
-      "path": "Forms of Life/Forms of Life.md"
-    },
-    {
-      "basename": "Events",
-      "path": "Events/Events.md"
-    },
-    {
-      "basename": "Using with Foundry VTT",
-      "path": "Documentation/Using with Foundry VTT.md"
-    },
-    {
-      "basename": "Help- Obsidian Timelines",
-      "path": "Documentation/Help- Obsidian Timelines.md"
-    },
-    {
-      "basename": "Help- Leaflet Documentation",
-      "path": "Documentation/Help- Leaflet Documentation.md"
-    },
-    {
-      "basename": "Callouts",
-      "path": "Documentation/Callouts.md"
-    },
-    {
-      "basename": "Documentation",
-      "path": "Documentation/Documentation.md"
-    },
-    {
-      "basename": "Gods",
-      "path": "Characters/Gods/Gods.md"
-    },
-    {
-      "basename": "Characters",
-      "path": "Characters/Characters.md"
-    },
-    {
-      "basename": "Society- Language",
-      "path": "Templates/Society- Language.md"
-    },
-    {
-      "basename": "Language",
-      "path": "Society/Language/Language.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Material/Resources/Resources.md"
-    },
-    {
-      "basename": "Weather",
-      "path": "Material/Weather/Weather.md"
-    },
-    {
-      "basename": "Society",
-      "path": "Society/Society.md"
-    },
-    {
-      "basename": "Narrative and Planning",
-      "path": "Narrative and Planning/Narrative and Planning.md"
-    },
-    {
-      "basename": "About",
-      "path": "Narrative and Planning/About/About.md"
-    },
-    {
-      "basename": "Storylines",
-      "path": "Narrative and Planning/Storylines/Storylines.md"
-    },
-    {
-      "basename": "Session Notes",
-      "path": "Narrative and Planning/Session Notes/Session Notes.md"
-    },
-    {
-      "basename": "Group- Combat",
-      "path": "Templates/Group- Combat.md"
-    },
-    {
-      "basename": "Plan- Session Notes",
-      "path": "Templates/Plan- Session Notes.md"
-    },
-    {
-      "basename": "Location- Cosmology",
-      "path": "Templates/Location- Cosmology.md"
-    },
-    {
-      "basename": "Location- Establishment",
-      "path": "Templates/Location- Establishment.md"
-    },
-    {
-      "basename": "Location- Region",
-      "path": "Templates/Location- Region.md"
-    },
-    {
-      "basename": "Location- Natural",
-      "path": "Templates/Location- Natural.md"
-    },
-    {
-      "basename": "Location- Landmark",
-      "path": "Templates/Location- Landmark.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Templates/Character.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Templates/Kanban.md"
-    },
-    {
-      "basename": "Group- General",
-      "path": "Templates/Group- General.md"
-    },
-    {
-      "basename": "Group- Political",
-      "path": "Templates/Group- Political.md"
-    },
-    {
-      "basename": "Group- Commercial",
-      "path": "Templates/Group- Commercial.md"
-    },
-    {
-      "basename": "Group- Religious",
-      "path": "Templates/Group- Religious.md"
-    },
-    {
-      "basename": "Event",
-      "path": "Templates/Event.md"
-    },
-    {
-      "basename": "Location- Settlement",
-      "path": "Templates/Location- Settlement.md"
     }
   ],
   "omittedPaths": [],

@@ -1,7 +1,11 @@
+---
+tags:
+- planning
+---
 # Last Session
 What happened last session?
 -
-# Session Planning
+# {{Title}} Session Planning
 Plans for this session go here:
 -
 # Notes

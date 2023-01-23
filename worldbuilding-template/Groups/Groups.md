@@ -1,6 +1,7 @@
 ---
 tags:
 - group
+- category
 ---
 # Groups
 If the organization exists and is worth mentioning, it should be stored here. 

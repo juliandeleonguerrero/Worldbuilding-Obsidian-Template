@@ -1,6 +1,7 @@
 ---
 tags:
 - material
+- category
 ---
 # Material
 The Material folder is meant to contain physical circumstances in your world not described in other sections. 
@@ -16,10 +17,11 @@ Important and/or unique items within your world, worthy of mention can be stored
 ## Resources
 Information about iron, coal, wood, or your fantasy unobtainium of choice can be stored here.
 ## Weather
-Climate and weather patterns can be stored here.
+Information about climate and weather patterns can be stored here.
 # Table of Contents
 %% Begin Waypoint %%
 - **[[Afflictions]]**
+- **[[Geography]]**
 - **[[Magic]]**
 - **[[Maps]]**
 - **[[Metaphysics]]**

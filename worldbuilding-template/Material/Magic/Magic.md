@@ -2,6 +2,7 @@
 tags:
 - material
 - magic
+- category
 ---
 # Magic
 Interesting spells, rituals, and the laws of magic itself can be stored here.

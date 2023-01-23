@@ -1,6 +1,7 @@
 ---
 tags:
 - society
+- category
 ---
 # Society
 Lore about society as we know it can be found here. This is meant to contain cultural concepts created groups of people, and help organize it appropriately.
@@ -10,10 +11,12 @@ The folder is organized into the following concepts, listed below.
 Art includes music, sculpture, paintings, and any other way that intelligent life uses to express itself in meaningful, transcendental ways.
 ## Customs
 Customs can include customs and traditions, common cultural practices, and other learned activities within the society.
+## Economics
+Economic systems, matters of currency, and other related information can be stored here.
 ## Education
 This includes teachings, fields of knowledge, and other fields of study notable within the world.
 ## Language
-Both verbal and non-verbal language should be noted here.
+Both verbal and non-verbal language can be noted here.
 ## Lore
 In-world stories, folklore, and other commonly shared information within the world should be documented here.
 ## Occupations

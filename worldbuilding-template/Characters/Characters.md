@@ -1,6 +1,7 @@
 ---
 tags:
 - character
+- category
 ---
 # Characters
 Characters are placed within this folder. Ideally, each character should have the following bits of information:
