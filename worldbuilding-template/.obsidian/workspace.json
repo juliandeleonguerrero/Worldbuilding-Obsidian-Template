@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Material.md",
+                "file": "Society/Language/Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Material.md",
+                "file": "Society/Language/Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Material.md"
+                "file": "Society/Language/Language.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Material/Material.md",
+                "file": "Society/Language/Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,15 +208,15 @@
   },
   "active": "480573127bb327c9",
   "lastOpenFiles": [
-    "Forms of Life/Forms of Life.md",
+    "Material/Afflictions/Afflictions.md",
     "Material/Material.md",
+    "Forms of Life/Forms of Life.md",
     "Forms of Life/Fauna/Fauna.md",
     "Material/Resources/Resources.md",
     "Material/Weather/Weather.md",
     "Groups/Combat/Combat.md",
     "Forms of Life/Magical/Magical.md",
     "Forms of Life/Humanoid Species/Humanoid Species.md",
-    "Forms of Life/Flora/Flora.md",
-    "Events/History/History.md"
+    "Forms of Life/Flora/Flora.md"
   ]
 }
