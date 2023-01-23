@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Language",
-      "path": "Society/Language/Language.md"
+      "basename": "Metaphysics",
+      "path": "Material/Metaphysics/Metaphysics.md"
     },
     {
-      "basename": "Afflictions",
-      "path": "Material/Afflictions/Afflictions.md"
+      "basename": "Maps",
+      "path": "Material/Maps/Maps.md"
+    },
+    {
+      "basename": "Magic",
+      "path": "Material/Magic/Magic.md"
     },
     {
       "basename": "Material",
       "path": "Material/Material.md"
     },
     {
-      "basename": "Forms of Life",
-      "path": "Forms of Life/Forms of Life.md"
+      "basename": "Afflictions",
+      "path": "Material/Afflictions/Afflictions.md"
     },
     {
-      "basename": "Fauna",
-      "path": "Forms of Life/Fauna/Fauna.md"
+      "basename": "Locations",
+      "path": "Locations/Locations.md"
     },
     {
-      "basename": "Resources",
-      "path": "Material/Resources/Resources.md"
+      "basename": "Religious",
+      "path": "Groups/Religious/Religious.md"
     },
     {
-      "basename": "Weather",
-      "path": "Material/Weather/Weather.md"
+      "basename": "Population",
+      "path": "Groups/Population/Population.md"
+    },
+    {
+      "basename": "Political",
+      "path": "Groups/Political/Political.md"
+    },
+    {
+      "basename": "Groups",
+      "path": "Groups/Groups.md"
+    },
+    {
+      "basename": "General",
+      "path": "Groups/General/General.md"
+    },
+    {
+      "basename": "Commercial",
+      "path": "Groups/Commercial/Commercial.md"
     },
     {
       "basename": "Combat",
@@ -45,24 +65,60 @@
       "path": "Forms of Life/Flora/Flora.md"
     },
     {
-      "basename": "Locations",
-      "path": "Locations/Locations.md"
+      "basename": "Fauna",
+      "path": "Forms of Life/Fauna/Fauna.md"
     },
     {
-      "basename": "Groups",
-      "path": "Groups/Groups.md"
+      "basename": "Forms of Life",
+      "path": "Forms of Life/Forms of Life.md"
     },
     {
       "basename": "Events",
       "path": "Events/Events.md"
     },
     {
+      "basename": "Using with Foundry VTT",
+      "path": "Documentation/Using with Foundry VTT.md"
+    },
+    {
+      "basename": "Help- Obsidian Timelines",
+      "path": "Documentation/Help- Obsidian Timelines.md"
+    },
+    {
+      "basename": "Help- Leaflet Documentation",
+      "path": "Documentation/Help- Leaflet Documentation.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "Documentation/Callouts.md"
+    },
+    {
       "basename": "Documentation",
       "path": "Documentation/Documentation.md"
     },
     {
+      "basename": "Gods",
+      "path": "Characters/Gods/Gods.md"
+    },
+    {
       "basename": "Characters",
       "path": "Characters/Characters.md"
+    },
+    {
+      "basename": "Society- Language",
+      "path": "Templates/Society- Language.md"
+    },
+    {
+      "basename": "Language",
+      "path": "Society/Language/Language.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Material/Resources/Resources.md"
+    },
+    {
+      "basename": "Weather",
+      "path": "Material/Weather/Weather.md"
     },
     {
       "basename": "Society",
@@ -137,36 +193,12 @@
       "path": "Templates/Group- Religious.md"
     },
     {
-      "basename": "Callouts",
-      "path": "Documentation/Callouts.md"
-    },
-    {
       "basename": "Event",
       "path": "Templates/Event.md"
     },
     {
       "basename": "Location- Settlement",
       "path": "Templates/Location- Settlement.md"
-    },
-    {
-      "basename": "Group- Population",
-      "path": "Templates/Group- Population.md"
-    },
-    {
-      "basename": "Help- Obsidian Timelines",
-      "path": "Documentation/Help- Obsidian Timelines.md"
-    },
-    {
-      "basename": "Help- Leaflet Documentation",
-      "path": "Documentation/Help- Leaflet Documentation.md"
-    },
-    {
-      "basename": "Gods",
-      "path": "Characters/Gods/Gods.md"
-    },
-    {
-      "basename": "Using with Foundry VTT",
-      "path": "Documentation/Using with Foundry VTT.md"
     }
   ],
   "omittedPaths": [],

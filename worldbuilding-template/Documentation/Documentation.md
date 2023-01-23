@@ -3,7 +3,7 @@ tags:
 - documentation
 ---
 # Documentation
-The documentation folder exists to outline useful tips for managing the worldbuilding template. It includes documentation for plugins/integrations that are difficult to use.
+The documentation folder exists to outline useful tips for managing the worldbuilding template. It also includes documentation for plugins/integrations included with the worldbuilding template.
 # Table of Contents
 %% Begin Waypoint %%
 - [[Callouts]]

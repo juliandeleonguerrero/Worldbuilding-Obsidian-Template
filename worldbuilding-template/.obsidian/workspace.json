@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "480573127bb327c9",
+            "id": "ff4f3bc05a5fc72c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Society/Language/Language.md",
+                "file": "Material/Metaphysics/Metaphysics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc9911554dc5672f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material/Afflictions/Afflictions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Society/Language/Language.md",
+                "file": "Material/Metaphysics/Metaphysics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Society/Language/Language.md"
+                "file": "Material/Metaphysics/Metaphysics.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Society/Language/Language.md",
+                "file": "Material/Metaphysics/Metaphysics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,17 +218,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "480573127bb327c9",
+  "active": "ff4f3bc05a5fc72c",
   "lastOpenFiles": [
-    "Material/Afflictions/Afflictions.md",
+    "Material/Maps/Maps.md",
+    "Material/Magic/Magic.md",
     "Material/Material.md",
-    "Forms of Life/Forms of Life.md",
-    "Forms of Life/Fauna/Fauna.md",
-    "Material/Resources/Resources.md",
-    "Material/Weather/Weather.md",
-    "Groups/Combat/Combat.md",
-    "Forms of Life/Magical/Magical.md",
-    "Forms of Life/Humanoid Species/Humanoid Species.md",
-    "Forms of Life/Flora/Flora.md"
+    "Material/Afflictions/Afflictions.md",
+    "Locations/Locations.md",
+    "Groups/Religious/Religious.md",
+    "Groups/Population/Population.md",
+    "Groups/Political/Political.md",
+    "Groups/Groups.md",
+    "Groups/General/General.md"
   ]
 }

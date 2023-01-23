@@ -1,1 +1,6 @@
+---
+tags:
+- political
+- group
+---
 # Political

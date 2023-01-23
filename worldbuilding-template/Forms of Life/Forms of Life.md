@@ -1,3 +1,7 @@
+---
+tags:
+- life
+---
 # Forms of Life
 Life exists in many forms, and this folder helps to document them. If the life is worth mentioning, it should be stored here.
 # Folder Organization

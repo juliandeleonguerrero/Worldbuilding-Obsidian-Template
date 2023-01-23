@@ -9,7 +9,7 @@ A new event can be created by using the event template. There is no harm in pick
 ### Timeline
 The default Event template supports the Timeline feature. Near the top of every document is a hidden code block that allows you to specify the event's name, starting date, ending date, and other important details for the timeline plugin to function.
 # Folder Organization
-World builders are encoruaged to create their own events folder and organize it appropriately.
+World builders are encouraged to create their own folders and organize appropriately.
 # Table of Contents
 %% Begin Waypoint %%
 

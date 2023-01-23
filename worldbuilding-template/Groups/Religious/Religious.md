@@ -1,1 +1,6 @@
+---
+tags:
+- religion
+- group
+---
 # Religious

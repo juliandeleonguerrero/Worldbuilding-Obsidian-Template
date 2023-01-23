@@ -1,8 +1,12 @@
+---
+tags:
+- material
+---
 # Material
 The Material folder is meant to contain physical circumstances in your world not described in other sections. 
 # Folder Organization
 ## Afflictions
-Disease and pestilence can be stored here.
+Notes on disease, infection, and pestilence can be stored here.
 ## Magic
 Interesting spells, rituals, and the laws of magic itself can be stored here.
 ## Metaphysics
@@ -13,3 +17,14 @@ Important and/or unique items within your world, worthy of mention can be stored
 Information about iron, coal, wood, or your fantasy unobtainium of choice can be stored here.
 ## Weather
 Climate and weather patterns can be stored here.
+# Table of Contents
+%% Begin Waypoint %%
+- **[[Afflictions]]**
+- **[[Magic]]**
+- **[[Maps]]**
+- **[[Metaphysics]]**
+- **[[Objects]]**
+- **[[Resources]]**
+- **[[Weather]]**
+
+%% End Waypoint %%

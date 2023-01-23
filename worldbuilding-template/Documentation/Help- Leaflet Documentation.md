@@ -1,3 +1,7 @@
+---
+tags:
+- doc
+---
 # Obsidian Leaflet
 
 Adds interactable mapping functionality to Obsidian.md, using [Leaflet.js](https://leafletjs.com/)

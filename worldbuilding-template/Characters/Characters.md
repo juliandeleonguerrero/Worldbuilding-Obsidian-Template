@@ -7,6 +7,8 @@ Characters are placed within this folder. Ideally, each character should have th
 - What they do
 - Their motivations
 - And some reason for existing within the story.
+# Folder Organization
+World builders are encouraged to create their own folders and organize appropriately.
 # Table of Contents
 %% Begin Waypoint %%
 - **[[Gods]]**

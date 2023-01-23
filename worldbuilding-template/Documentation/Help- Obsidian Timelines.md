@@ -1,3 +1,7 @@
+---
+tags:
+- doc
+---
 Generate a chronological timeline of all notes with the specified set of tags. 
 
 ## Example - Vertical Timeline
