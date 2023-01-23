@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9833fb4c6a54fe8d",
+        "id": "94d08362fa4edf89",
         "type": "tabs",
         "children": [
           {
-            "id": "85e987e5b944da48",
+            "id": "3fc30be18a2b8e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Material- Weather.md",
+                "file": "Narrative and Planning/Narrative and Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Material- Weather.md",
+                "file": "Narrative and Planning/Narrative and Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Material- Weather.md"
+                "file": "Narrative and Planning/Narrative and Planning.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Material- Weather.md",
+                "file": "Narrative and Planning/Narrative and Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,17 +206,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "85e987e5b944da48",
+  "active": "3fc30be18a2b8e56",
   "lastOpenFiles": [
-    "Templates/Material- Resource.md",
-    "Templates/Material- Object.md",
-    "Templates/Material- Metaphysics.md",
-    "Templates/Material- Maps.md",
-    "Templates/Material- Magic.md",
-    "Templates/Material- Geography.md",
-    "Templates/Material- Currency.md",
+    "Templates/Life- Plant.md",
+    "Templates/Life- Magical.md",
+    "Templates/Life- Animal.md",
+    "Templates/Life- Humanoid.md",
+    "Templates/Life- Humanoid 1.md",
+    "Documentation/Callouts.md",
+    "Documentation/Documentation.md",
     "Templates/Location- Region.md",
-    "Templates/Material- Afflictions.md",
-    "Templates/Material- Weather.md"
+    "Life/Flora/Flora.md",
+    "Life/Fauna/Fauna.md"
   ]
 }

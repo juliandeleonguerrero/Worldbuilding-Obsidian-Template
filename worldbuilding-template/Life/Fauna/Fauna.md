@@ -5,7 +5,7 @@ tags:
 - life
 - category
 ---
-# Fauna
+# Animal
 For the birds, the bees, and animals of all kinds.
 
 # Table of Contents

@@ -4,7 +4,7 @@ tags:
 - life
 - category
 ---
-# Flora
+# Plant
 For various plants and fungi in your world.
 # Table of Contents
 %% Begin Waypoint %%

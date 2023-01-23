@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Narrative and Planning",
+      "path": "Narrative and Planning/Narrative and Planning.md"
+    },
+    {
+      "basename": "Life- Plant",
+      "path": "Templates/Life- Plant.md"
+    },
+    {
+      "basename": "Life- Magical",
+      "path": "Templates/Life- Magical.md"
+    },
+    {
+      "basename": "Life- Animal",
+      "path": "Templates/Life- Animal.md"
+    },
+    {
+      "basename": "Life- Humanoid",
+      "path": "Templates/Life- Humanoid.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "Documentation/Callouts.md"
+    },
+    {
+      "basename": "Documentation",
+      "path": "Documentation/Documentation.md"
+    },
+    {
+      "basename": "Location- Region",
+      "path": "Templates/Location- Region.md"
+    },
+    {
+      "basename": "Flora",
+      "path": "Life/Flora/Flora.md"
+    },
+    {
+      "basename": "Fauna",
+      "path": "Life/Fauna/Fauna.md"
+    },
+    {
+      "basename": "Life",
+      "path": "Life/Life.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Character.md"
+    },
+    {
       "basename": "Material- Weather",
       "path": "Templates/Material- Weather.md"
     },
@@ -31,10 +79,6 @@
     {
       "basename": "Material- Currency",
       "path": "Templates/Material- Currency.md"
-    },
-    {
-      "basename": "Location- Region",
-      "path": "Templates/Location- Region.md"
     },
     {
       "basename": "Material- Afflictions",
@@ -77,14 +121,6 @@
       "path": "Templates/Society- Economics.md"
     },
     {
-      "basename": "Callouts",
-      "path": "Documentation/Callouts.md"
-    },
-    {
-      "basename": "Documentation",
-      "path": "Documentation/Documentation.md"
-    },
-    {
       "basename": "Society- Lore",
       "path": "Templates/Society- Lore.md"
     },
@@ -119,10 +155,6 @@
     {
       "basename": "About",
       "path": "Narrative and Planning/About/About.md"
-    },
-    {
-      "basename": "Narrative and Planning",
-      "path": "Narrative and Planning/Narrative and Planning.md"
     },
     {
       "basename": "Resources",
@@ -161,44 +193,8 @@
       "path": "Life/Humanoids/Humanoids.md"
     },
     {
-      "basename": "Flora",
-      "path": "Life/Flora/Flora.md"
-    },
-    {
-      "basename": "Fauna",
-      "path": "Life/Fauna/Fauna.md"
-    },
-    {
-      "basename": "Life",
-      "path": "Life/Life.md"
-    },
-    {
       "basename": "Religious",
       "path": "Groups/Religious/Religious.md"
-    },
-    {
-      "basename": "Population",
-      "path": "Groups/Population/Population.md"
-    },
-    {
-      "basename": "Political",
-      "path": "Groups/Political/Political.md"
-    },
-    {
-      "basename": "General",
-      "path": "Groups/General/General.md"
-    },
-    {
-      "basename": "Commercial",
-      "path": "Groups/Commercial/Commercial.md"
-    },
-    {
-      "basename": "Combat",
-      "path": "Groups/Combat/Combat.md"
-    },
-    {
-      "basename": "Groups",
-      "path": "Groups/Groups.md"
     }
   ],
   "omittedPaths": [],

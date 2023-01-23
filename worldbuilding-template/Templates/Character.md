@@ -17,7 +17,7 @@ tags:
 > | Status |  |
 > | Languages |  |
 > | Relatives |   |
-# About
+# About {{Title}}
 -
 # History
 -
