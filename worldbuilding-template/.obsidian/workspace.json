@@ -11,8 +11,12 @@
             "id": "85e987e5b944da48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Material- Weather.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Material- Weather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Material- Weather.md"
+              }
             }
           },
           {
@@ -113,7 +120,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -124,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Material- Weather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,17 +206,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7be5a2b68df6ec67",
+  "active": "85e987e5b944da48",
   "lastOpenFiles": [
-    "Material/Material.md",
-    "Material/Climate/Climate.md",
-    "Templates/Material- Weather.md",
     "Templates/Material- Resource.md",
     "Templates/Material- Object.md",
     "Templates/Material- Metaphysics.md",
     "Templates/Material- Maps.md",
     "Templates/Material- Magic.md",
     "Templates/Material- Geography.md",
-    "Templates/Material- Currency.md"
+    "Templates/Material- Currency.md",
+    "Templates/Location- Region.md",
+    "Templates/Material- Afflictions.md",
+    "Templates/Material- Weather.md"
   ]
 }

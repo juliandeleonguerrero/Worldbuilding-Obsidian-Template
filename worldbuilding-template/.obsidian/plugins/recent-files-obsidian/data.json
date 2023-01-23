@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Material",
-      "path": "Material/Material.md"
-    },
-    {
-      "basename": "Climate",
-      "path": "Material/Climate/Climate.md"
-    },
-    {
       "basename": "Material- Weather",
       "path": "Templates/Material- Weather.md"
     },
@@ -41,8 +33,20 @@
       "path": "Templates/Material- Currency.md"
     },
     {
+      "basename": "Location- Region",
+      "path": "Templates/Location- Region.md"
+    },
+    {
       "basename": "Material- Afflictions",
       "path": "Templates/Material- Afflictions.md"
+    },
+    {
+      "basename": "Material",
+      "path": "Material/Material.md"
+    },
+    {
+      "basename": "Climate",
+      "path": "Material/Climate/Climate.md"
     },
     {
       "basename": "Currency",
@@ -195,10 +199,6 @@
     {
       "basename": "Groups",
       "path": "Groups/Groups.md"
-    },
-    {
-      "basename": "Gods",
-      "path": "Characters/Gods/Gods.md"
     }
   ],
   "omittedPaths": [],
