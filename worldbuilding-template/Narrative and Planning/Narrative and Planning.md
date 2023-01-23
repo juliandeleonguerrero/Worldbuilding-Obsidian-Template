@@ -1,7 +1,7 @@
 ---
 tags:
-- planning
-- narrative
+- plan
+- narrate
 - category
 ---
 # Narrative and Planning

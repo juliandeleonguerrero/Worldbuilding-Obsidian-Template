@@ -1,7 +1,7 @@
 ---
 tags:
 - location
-- settlement
+- settle
 ---
 > [!infobox]
 > # `{{title}}`

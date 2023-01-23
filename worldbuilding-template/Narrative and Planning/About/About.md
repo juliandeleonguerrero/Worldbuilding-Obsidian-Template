@@ -1,8 +1,8 @@
 ---
 tags:
 - about
-- narrative
-- planning
+- narrate
+- plan
 - category
 ---
 # About

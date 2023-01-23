@@ -1,6 +1,6 @@
 ---
 tags:
-- custom
+- customs
 - society
 - category
 ---

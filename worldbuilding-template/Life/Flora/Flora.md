@@ -1,6 +1,6 @@
 ---
 tags:
-- flora
+- plant
 - life
 - category
 ---

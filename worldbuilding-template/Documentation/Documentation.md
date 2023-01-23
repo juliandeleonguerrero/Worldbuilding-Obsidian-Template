@@ -1,6 +1,6 @@
 ---
 tags:
-- documentation
+- doc
 - category
 ---
 # Documentation

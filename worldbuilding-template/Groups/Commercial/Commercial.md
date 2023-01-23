@@ -1,6 +1,6 @@
 ---
 tags:
-- commercial
+- commerce
 - group
 - category
 ---

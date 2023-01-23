@@ -1,6 +1,6 @@
 ---
 tags:
-- economy
+- econ
 - society
 - category
 ---

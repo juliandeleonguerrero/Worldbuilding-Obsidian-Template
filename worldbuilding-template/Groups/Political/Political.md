@@ -1,6 +1,6 @@
 ---
 tags:
-- political
+- politic
 - group
 - category
 ---

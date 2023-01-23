@@ -1,6 +1,6 @@
 ---
 tags:
-- metaphysics
+- physic
 - material
 - category
 ---

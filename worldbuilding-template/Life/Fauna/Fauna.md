@@ -1,7 +1,7 @@
 ---
 tags:
-- species
-- fauna
+- specie
+- animal
 - life
 - category
 ---

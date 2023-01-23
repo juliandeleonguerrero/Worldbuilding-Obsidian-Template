@@ -1,6 +1,6 @@
 ---
 tags:
-- language
+- lang
 - society
 - category
 ---

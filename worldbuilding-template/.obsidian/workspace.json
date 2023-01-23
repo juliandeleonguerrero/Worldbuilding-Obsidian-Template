@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "458243f7f712fe50",
+        "id": "9833fb4c6a54fe8d",
         "type": "tabs",
         "children": [
           {
-            "id": "534ee164ab1f06bf",
+            "id": "85e987e5b944da48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Life.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Life/Life.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 760.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,17 +198,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "534ee164ab1f06bf",
+  "active": "7be5a2b68df6ec67",
   "lastOpenFiles": [
     "Material/Material.md",
-    "Society/Society.md",
-    "Templates/Society- Education.md",
-    "Templates/Society- Lore.md",
-    "Templates/Society- Economics.md",
-    "Templates/Society- Religion.md",
-    "Templates/Group- Religious.md",
-    "Templates/Society- Occupation.md",
-    "Society/Religion/Religion.md",
-    "Templates/Society- Customs.md"
+    "Material/Climate/Climate.md",
+    "Templates/Material- Weather.md",
+    "Templates/Material- Resource.md",
+    "Templates/Material- Object.md",
+    "Templates/Material- Metaphysics.md",
+    "Templates/Material- Maps.md",
+    "Templates/Material- Magic.md",
+    "Templates/Material- Geography.md",
+    "Templates/Material- Currency.md"
   ]
 }

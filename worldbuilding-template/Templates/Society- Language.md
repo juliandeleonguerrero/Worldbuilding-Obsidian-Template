@@ -1,7 +1,7 @@
 ---
 tags:
 - society
-- language
+- lang
 ---
 # {{Title}}
 -

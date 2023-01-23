@@ -1,6 +1,6 @@
 ---
 tags:
-- general-group
+- general
 - group
 ---
 > [!infobox]

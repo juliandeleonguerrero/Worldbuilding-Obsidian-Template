@@ -1,7 +1,7 @@
 ---
 tags:
 - location
-- establishment
+- establish
 ---
 > [!infobox]
 > # `{{title}}`

@@ -1,6 +1,6 @@
 ---
 tags:
-- species
+- specie
 - humanoid
 - life
 - category

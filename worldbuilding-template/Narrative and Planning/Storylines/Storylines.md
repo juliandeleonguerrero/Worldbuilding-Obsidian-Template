@@ -1,6 +1,6 @@
 ---
 tags:
-- narrative
+- narrate
 - category
 ---
 # Storylines

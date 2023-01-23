@@ -1,6 +1,6 @@
 ---
 tags:
-- education
+- edu
 - society
 - category
 ---

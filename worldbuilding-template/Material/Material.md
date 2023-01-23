@@ -16,17 +16,18 @@ Do the foundational physical laws of your fantasy world vary from the real world
 Important and/or unique items within your world, worthy of mention can be stored here.
 ## Resources
 Information about iron, coal, wood, or your fantasy unobtainium of choice can be stored here.
-## Weather
+## Climate
 Information about climate and weather patterns can be stored here.
 # Table of Contents
 %% Begin Waypoint %%
 - **[[Afflictions]]**
+- **[[Climate]]**
+- **[[Currency]]**
 - **[[Geography]]**
 - **[[Magic]]**
 - **[[Maps]]**
 - **[[Metaphysics]]**
 - **[[Objects]]**
 - **[[Resources]]**
-- **[[Weather]]**
 
 %% End Waypoint %%

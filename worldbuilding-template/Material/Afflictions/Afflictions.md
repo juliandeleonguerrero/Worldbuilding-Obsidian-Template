@@ -1,7 +1,7 @@
 ---
 tags:
 - material
-- affliction
+- afflict
 - category
 ---
 # Afflictions

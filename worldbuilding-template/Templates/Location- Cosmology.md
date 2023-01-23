@@ -1,7 +1,7 @@
 ---
 tags:
 - location
-- cosmology
+- space
 ---
 > [!infobox]
 > # `{{title}}`
