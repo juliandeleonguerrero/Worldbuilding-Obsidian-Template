@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Location- Settlement",
+      "path": "Templates/Location- Settlement.md"
+    },
+    {
+      "basename": "Locations",
+      "path": "Locations/Locations.md"
+    },
+    {
       "basename": "Narrative and Planning",
       "path": "Narrative and Planning/Narrative and Planning.md"
     },
@@ -179,10 +187,6 @@
     {
       "basename": "Afflictions",
       "path": "Material/Afflictions/Afflictions.md"
-    },
-    {
-      "basename": "Locations",
-      "path": "Locations/Locations.md"
     },
     {
       "basename": "Magical",

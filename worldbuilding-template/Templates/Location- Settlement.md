@@ -25,6 +25,8 @@ tags:
 # Culture
 -
 # Significant locations in {{title}}
-
+-
+# Residents
+-
 # Other Notes
 -

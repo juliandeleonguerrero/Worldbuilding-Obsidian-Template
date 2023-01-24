@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative and Planning/Narrative and Planning.md",
+                "file": "Templates/Location- Settlement.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative and Planning/Narrative and Planning.md",
+                "file": "Templates/Location- Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative and Planning/Narrative and Planning.md"
+                "file": "Templates/Location- Settlement.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative and Planning/Narrative and Planning.md",
+                "file": "Templates/Location- Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,6 +208,8 @@
   },
   "active": "3fc30be18a2b8e56",
   "lastOpenFiles": [
+    "Locations/Locations.md",
+    "Narrative and Planning/Narrative and Planning.md",
     "Templates/Life- Plant.md",
     "Templates/Life- Magical.md",
     "Templates/Life- Animal.md",
@@ -215,8 +217,6 @@
     "Templates/Life- Humanoid 1.md",
     "Documentation/Callouts.md",
     "Documentation/Documentation.md",
-    "Templates/Location- Region.md",
-    "Life/Flora/Flora.md",
-    "Life/Fauna/Fauna.md"
+    "Templates/Location- Region.md"
   ]
 }
