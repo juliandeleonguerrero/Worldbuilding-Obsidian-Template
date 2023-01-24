@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Population",
+      "path": "Groups/Population/Population.md"
+    },
+    {
+      "basename": "Group- Population",
+      "path": "Templates/Group- Population.md"
+    },
+    {
+      "basename": "Society- Occupation",
+      "path": "Templates/Society- Occupation.md"
+    },
+    {
+      "basename": "Society- Lore",
+      "path": "Templates/Society- Lore.md"
+    },
+    {
+      "basename": "Society- Language",
+      "path": "Templates/Society- Language.md"
+    },
+    {
+      "basename": "Society- Economics",
+      "path": "Templates/Society- Economics.md"
+    },
+    {
+      "basename": "Society- Customs",
+      "path": "Templates/Society- Customs.md"
+    },
+    {
+      "basename": "Group- General",
+      "path": "Templates/Group- General.md"
+    },
+    {
+      "basename": "Group- Religious",
+      "path": "Templates/Group- Religious.md"
+    },
+    {
+      "basename": "Life- Animal",
+      "path": "Templates/Life- Animal.md"
+    },
+    {
+      "basename": "Life- Humanoid",
+      "path": "Templates/Life- Humanoid.md"
+    },
+    {
+      "basename": "Life- Magical",
+      "path": "Templates/Life- Magical.md"
+    },
+    {
       "basename": "Location- Settlement",
       "path": "Templates/Location- Settlement.md"
     },
@@ -15,18 +63,6 @@
     {
       "basename": "Life- Plant",
       "path": "Templates/Life- Plant.md"
-    },
-    {
-      "basename": "Life- Magical",
-      "path": "Templates/Life- Magical.md"
-    },
-    {
-      "basename": "Life- Animal",
-      "path": "Templates/Life- Animal.md"
-    },
-    {
-      "basename": "Life- Humanoid",
-      "path": "Templates/Life- Humanoid.md"
     },
     {
       "basename": "Callouts",
@@ -113,32 +149,12 @@
       "path": "Templates/Society- Religion.md"
     },
     {
-      "basename": "Society- Occupation",
-      "path": "Templates/Society- Occupation.md"
-    },
-    {
       "basename": "Occupations",
       "path": "Society/Occupations/Occupations.md"
     },
     {
       "basename": "Society- Education",
       "path": "Templates/Society- Education.md"
-    },
-    {
-      "basename": "Society- Economics",
-      "path": "Templates/Society- Economics.md"
-    },
-    {
-      "basename": "Society- Lore",
-      "path": "Templates/Society- Lore.md"
-    },
-    {
-      "basename": "Society- Language",
-      "path": "Templates/Society- Language.md"
-    },
-    {
-      "basename": "Society- Customs",
-      "path": "Templates/Society- Customs.md"
     },
     {
       "basename": "Society- Art",
@@ -183,22 +199,6 @@
     {
       "basename": "Geography",
       "path": "Material/Geography/Geography.md"
-    },
-    {
-      "basename": "Afflictions",
-      "path": "Material/Afflictions/Afflictions.md"
-    },
-    {
-      "basename": "Magical",
-      "path": "Life/Magical/Magical.md"
-    },
-    {
-      "basename": "Humanoids",
-      "path": "Life/Humanoids/Humanoids.md"
-    },
-    {
-      "basename": "Religious",
-      "path": "Groups/Religious/Religious.md"
     }
   ],
   "omittedPaths": [],
