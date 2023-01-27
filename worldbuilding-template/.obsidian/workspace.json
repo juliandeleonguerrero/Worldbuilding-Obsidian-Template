@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Population/Population.md",
-                "mode": "preview",
+                "file": "Templates/Location- Establishment.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/Population/Population.md",
+                "file": "Templates/Location- Establishment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/Population/Population.md"
+                "file": "Templates/Location- Establishment.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/Population/Population.md",
+                "file": "Templates/Location- Establishment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,8 +206,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7be5a2b68df6ec67",
+  "active": "3fc30be18a2b8e56",
   "lastOpenFiles": [
+    "Groups/Population/Population.md",
     "Templates/Group- Population.md",
     "Templates/Society- Occupation.md",
     "Templates/Society- Lore.md",
@@ -216,7 +217,6 @@
     "Templates/Society- Customs.md",
     "Templates/Group- General.md",
     "Templates/Group- Religious.md",
-    "Templates/Life- Animal.md",
-    "Templates/Life- Humanoid.md"
+    "Templates/Life- Animal.md"
   ]
 }

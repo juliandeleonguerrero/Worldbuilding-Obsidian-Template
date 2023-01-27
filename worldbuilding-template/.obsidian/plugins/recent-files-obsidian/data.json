@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Location- Establishment",
+      "path": "Templates/Location- Establishment.md"
+    },
+    {
       "basename": "Population",
       "path": "Groups/Population/Population.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Magic",
       "path": "Material/Magic/Magic.md"
-    },
-    {
-      "basename": "Geography",
-      "path": "Material/Geography/Geography.md"
     }
   ],
   "omittedPaths": [],
