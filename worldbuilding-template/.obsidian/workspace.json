@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94d08362fa4edf89",
+        "id": "503e2d9d76fabd8a",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc30be18a2b8e56",
+            "id": "881de6234c299c62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Location- Establishment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Location- Establishment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Location- Establishment.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Location- Establishment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,17 +198,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3fc30be18a2b8e56",
+  "active": "881de6234c299c62",
   "lastOpenFiles": [
-    "Groups/Population/Population.md",
-    "Templates/Group- Population.md",
-    "Templates/Society- Occupation.md",
-    "Templates/Society- Lore.md",
-    "Templates/Society- Language.md",
-    "Templates/Society- Economics.md",
+    "Templates/Material- Metaphysics.md",
+    "Documentation/Using with Foundry VTT.md",
+    "Characters/Gods/Damn Son Where'd you Find this.md",
+    "Characters/Gods/Test.md",
+    "Templates/Material- Magic.md",
+    "Templates/Material- Geography.md",
     "Templates/Society- Customs.md",
-    "Templates/Group- General.md",
-    "Templates/Group- Religious.md",
-    "Templates/Life- Animal.md"
+    "Templates/Life- Plant.md",
+    "Templates/Group- Combat.md",
+    "Characters/Gods/Gods.md"
   ]
 }

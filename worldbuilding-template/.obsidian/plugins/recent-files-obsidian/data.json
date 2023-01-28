@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Material- Metaphysics",
+      "path": "Templates/Material- Metaphysics.md"
+    },
+    {
+      "basename": "Using with Foundry VTT",
+      "path": "Documentation/Using with Foundry VTT.md"
+    },
+    {
+      "basename": "Material- Magic",
+      "path": "Templates/Material- Magic.md"
+    },
+    {
+      "basename": "Material- Geography",
+      "path": "Templates/Material- Geography.md"
+    },
+    {
+      "basename": "Society- Customs",
+      "path": "Templates/Society- Customs.md"
+    },
+    {
+      "basename": "Life- Plant",
+      "path": "Templates/Life- Plant.md"
+    },
+    {
+      "basename": "Group- Combat",
+      "path": "Templates/Group- Combat.md"
+    },
+    {
+      "basename": "Gods",
+      "path": "Characters/Gods/Gods.md"
+    },
+    {
       "basename": "Location- Establishment",
       "path": "Templates/Location- Establishment.md"
     },
@@ -27,10 +59,6 @@
     {
       "basename": "Society- Economics",
       "path": "Templates/Society- Economics.md"
-    },
-    {
-      "basename": "Society- Customs",
-      "path": "Templates/Society- Customs.md"
     },
     {
       "basename": "Group- General",
@@ -63,10 +91,6 @@
     {
       "basename": "Narrative and Planning",
       "path": "Narrative and Planning/Narrative and Planning.md"
-    },
-    {
-      "basename": "Life- Plant",
-      "path": "Templates/Life- Plant.md"
     },
     {
       "basename": "Callouts",
@@ -109,20 +133,8 @@
       "path": "Templates/Material- Object.md"
     },
     {
-      "basename": "Material- Metaphysics",
-      "path": "Templates/Material- Metaphysics.md"
-    },
-    {
       "basename": "Material- Maps",
       "path": "Templates/Material- Maps.md"
-    },
-    {
-      "basename": "Material- Magic",
-      "path": "Templates/Material- Magic.md"
-    },
-    {
-      "basename": "Material- Geography",
-      "path": "Templates/Material- Geography.md"
     },
     {
       "basename": "Material- Currency",
@@ -179,26 +191,6 @@
     {
       "basename": "Session Notes",
       "path": "Narrative and Planning/Session Notes/Session Notes.md"
-    },
-    {
-      "basename": "About",
-      "path": "Narrative and Planning/About/About.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Material/Resources/Resources.md"
-    },
-    {
-      "basename": "Metaphysics",
-      "path": "Material/Metaphysics/Metaphysics.md"
-    },
-    {
-      "basename": "Maps",
-      "path": "Material/Maps/Maps.md"
-    },
-    {
-      "basename": "Magic",
-      "path": "Material/Magic/Magic.md"
     }
   ],
   "omittedPaths": [],
