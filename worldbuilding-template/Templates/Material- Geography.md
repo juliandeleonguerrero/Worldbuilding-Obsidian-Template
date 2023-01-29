@@ -4,7 +4,7 @@ tags:
 - geo
 ---
 # {{Title}}
--
+
 ## Key Principles
--
+
 # Relevant Locations

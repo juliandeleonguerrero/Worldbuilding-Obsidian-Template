@@ -14,10 +14,9 @@ tags:
 > | Size |  |
 
 # Description
--
+
 # History
--
+
 # Significant locations in {{title}}
--
+
 # Other Notes
--

@@ -14,15 +14,15 @@ tags:
 > | Size |  |
 # Description
 ## About
--
+
 ## Features
--
+
 ## Ecology
--
+
 # History
--
+
 # Significant locations in {{title}}
--
+
 # Other Notes
--
+
 # Test

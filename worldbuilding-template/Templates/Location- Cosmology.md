@@ -14,18 +14,17 @@ tags:
 > | Prominent locations within {{title}} |   |
 # Description
 ## About
--
+
 ## Geography
--
+
 ## Ecology
--
+
 ## Populations
--
+
 ## Climate
--
+
 # History
--
+
 # Significant locations in {{title}}
--
+
 # Other Notes
--

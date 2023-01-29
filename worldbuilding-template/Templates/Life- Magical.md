@@ -14,10 +14,9 @@ tags:
 > | Subspecies |   |
 > | Population |   |
 # {{Title}}
--
+
 # Distribution and Habitat
--
+
 # Behavior and Ecology
--
+
 # Cultural Significance
--

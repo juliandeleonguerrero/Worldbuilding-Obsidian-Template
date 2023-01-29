@@ -24,8 +24,8 @@ tag:
 > | Location |  |
 > | Result |  |
 # Background
--
+
 # Description
--
+
 # Aftermath
-	-
+

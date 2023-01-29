@@ -16,18 +16,17 @@ tags:
 > | Founder |   |
 > 
 # {{Title}}
--
+
 # Description
--
+
 # Culture
--
+
 ## Beliefs
--
+
 ## Practices
--
+
 ## Holidays
--
+
 ## Important Media
--
+
 ## Symbols
--

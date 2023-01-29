@@ -12,4 +12,3 @@ tags:
 > | Type of Magic |  |
 > | Power Level |  |
 # {{Title}}
--

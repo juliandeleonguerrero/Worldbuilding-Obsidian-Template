@@ -15,10 +15,9 @@ tags:
 > | Population |   |
 
 # {{Title}}s
--
+
 # Distribution and Habitat
--
+
 # Behavior and Ecology
--
+
 # Cultural Significance
--

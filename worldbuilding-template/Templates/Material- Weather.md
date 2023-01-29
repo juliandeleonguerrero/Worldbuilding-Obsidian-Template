@@ -4,10 +4,9 @@ tags:
 - climate
 ---
 # {{Title}}
--
+
 # Locations
--
+
 ## Effects
--
+
 # Significant Occurences
--

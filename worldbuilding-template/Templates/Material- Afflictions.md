@@ -4,10 +4,9 @@ tags:
 - afflict
 ---
 # {{Title}}
--
+
 ## Cause
--
+
 ## Symptoms
--
+
 # History
--

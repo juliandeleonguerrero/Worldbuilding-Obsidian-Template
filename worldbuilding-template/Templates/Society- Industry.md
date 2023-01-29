@@ -4,10 +4,10 @@ tags:
 - society
 ---
 > [!infobox]
-> # `{{title}}`
+> # `{{Title}}`
 > ![[Image.png|cover hsmall]]
 > ###### About
-> | Type of Custom/Tradition |   |
+> | Type of Industry/Industrial Practice |   |
 > | ---- | ---- |
 > | Other Titles |  |
 > | Frequency |  |

@@ -16,8 +16,8 @@ tags:
 > | Wealth/Class |   |
 
 # Description
--
+
 # History
--
+
 # Organization
--
+

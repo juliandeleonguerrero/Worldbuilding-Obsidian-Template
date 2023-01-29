@@ -13,8 +13,7 @@ tags:
 > | Subspecies |   |
 > | Rarity |   |
 # {{Title}}
--
+
 # Distribution and Ecosystem
--
+
 # Cultural Significance
--

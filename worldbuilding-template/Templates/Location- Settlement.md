@@ -19,14 +19,13 @@ tags:
 > | Industries |   |
 > | Religion |   |
 # Description
--
+
 # History
--
+
 # Culture
--
+
 # Significant locations in {{title}}
--
+
 # Residents
--
+
 # Other Notes
--

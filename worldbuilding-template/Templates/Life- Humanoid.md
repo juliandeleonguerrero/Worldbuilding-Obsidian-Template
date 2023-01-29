@@ -24,13 +24,12 @@ tags:
 >  | Other Traits |   |
 >  | Average Weight |   |
 
-# {{Title}}s
--
+# {{Title}}
+
 # Biology
--
+
 # Society
--
+
 # Culture
--
+
 # History
--

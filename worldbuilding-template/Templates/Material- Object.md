@@ -16,8 +16,7 @@ tags:
 > | Origin |   |
 
 # {{Title}}
--
+
 # History
--
+
 # Associated Lore
--

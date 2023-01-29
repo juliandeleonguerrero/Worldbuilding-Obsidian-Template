@@ -4,7 +4,7 @@ tags:
 - society
 ---
 # {{Title}}
--
+
 # History
--
+
 # Related

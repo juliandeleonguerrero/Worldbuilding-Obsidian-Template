@@ -15,6 +15,5 @@ tags:
 > | Issuer/Minter |   |
 
 # {{Title}}
--
+
 # History
--

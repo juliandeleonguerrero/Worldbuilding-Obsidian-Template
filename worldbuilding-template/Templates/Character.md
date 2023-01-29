@@ -18,11 +18,11 @@ tags:
 > | Languages |  |
 > | Relatives |   |
 # About {{Title}}
--
+
 # History
--
+
 # Appearance
--
+
 # Relationships
 | Characters | Relationship | Notes |
 | ---------- | ------------ | ----- |
@@ -30,6 +30,5 @@ tags:
 |            |              |       |
 
 # Abilities
--
+
 # Other Notes
--

@@ -13,9 +13,8 @@ tags:
 > | Related Jobs |  |
 > | Important {{Title}}s |   |
 # {{Title}}
--
+
 # History
--
+
 # Types
--
 

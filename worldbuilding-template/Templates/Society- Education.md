@@ -13,8 +13,7 @@ tags:
 > | Origin |   |
 
 # {{Title}}
--
+
 # History
--
+
 # Impact
--

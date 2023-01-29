@@ -42,6 +42,7 @@ To use a template, simply create a note and title it appropriately, and then ins
 - [[Society- Customs]]
 - [[Society- Economics]]
 - [[Society- Education]]
+- [[Society- Industry]]
 - [[Society- Language]]
 - [[Society- Lore]]
 - [[Society- Occupation]]

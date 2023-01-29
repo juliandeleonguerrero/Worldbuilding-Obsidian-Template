@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "306286b63a539443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Society- Religion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Society/Industry/Industry.md",
+                "file": "Templates/Society- Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Society/Industry/Industry.md"
+                "file": "Templates/Society- Religion.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Society/Industry/Industry.md",
+                "file": "Templates/Society- Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,17 +227,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "881de6234c299c62",
+  "active": "306286b63a539443",
   "lastOpenFiles": [
-    "Material/Agriculture/Agriculture.md",
-    "Material/Afflictions/Afflictions.md",
-    "Templates/Material- Metaphysics.md",
-    "Documentation/Using with Foundry VTT.md",
-    "Characters/Gods/Damn Son Where'd you Find this.md",
-    "Characters/Gods/Test.md",
-    "Templates/Material- Magic.md",
-    "Templates/Material- Geography.md",
+    "Templates/Society- Occupation.md",
+    "Templates/Society- Lore.md",
+    "Templates/Society- Language.md",
+    "Templates/Society- Industry.md",
+    "Templates/Society- Education.md",
+    "Templates/Society- Economics.md",
     "Templates/Society- Customs.md",
-    "Templates/Life- Plant.md"
+    "Templates/Society- Art.md",
+    "Templates/Plan- Session Notes.md",
+    "Templates/Material- Weather.md"
   ]
 }
