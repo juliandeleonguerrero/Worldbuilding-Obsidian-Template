@@ -11,8 +11,12 @@
             "id": "881de6234c299c62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Society/Industry/Industry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Society/Industry/Industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Society/Industry/Industry.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Society/Industry/Industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +184,17 @@
               "type": "BC-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "837c34ca8ad572e7",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -200,6 +216,8 @@
   },
   "active": "881de6234c299c62",
   "lastOpenFiles": [
+    "Material/Agriculture/Agriculture.md",
+    "Material/Afflictions/Afflictions.md",
     "Templates/Material- Metaphysics.md",
     "Documentation/Using with Foundry VTT.md",
     "Characters/Gods/Damn Son Where'd you Find this.md",
@@ -207,8 +225,6 @@
     "Templates/Material- Magic.md",
     "Templates/Material- Geography.md",
     "Templates/Society- Customs.md",
-    "Templates/Life- Plant.md",
-    "Templates/Group- Combat.md",
-    "Characters/Gods/Gods.md"
+    "Templates/Life- Plant.md"
   ]
 }

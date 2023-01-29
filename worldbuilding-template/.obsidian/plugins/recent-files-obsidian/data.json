@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Industry",
+      "path": "Society/Industry/Industry.md"
+    },
+    {
+      "basename": "Agriculture",
+      "path": "Material/Agriculture/Agriculture.md"
+    },
+    {
+      "basename": "Afflictions",
+      "path": "Material/Afflictions/Afflictions.md"
+    },
+    {
       "basename": "Material- Metaphysics",
       "path": "Templates/Material- Metaphysics.md"
     },
@@ -187,10 +199,6 @@
     {
       "basename": "Storylines",
       "path": "Narrative and Planning/Storylines/Storylines.md"
-    },
-    {
-      "basename": "Session Notes",
-      "path": "Narrative and Planning/Session Notes/Session Notes.md"
     }
   ],
   "omittedPaths": [],
