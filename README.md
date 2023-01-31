@@ -28,7 +28,7 @@ The following plugins are currently included within the worldbuilding template:
 
 ## Advanced Tables by Tony Grosinger
 
-This is included for easier table editing within Obsidian.md. Markdown is a powerful method of editing, but tables are an admittedly weaker quality.
+This is included for easier table editing within Obsidian.md. Markdown is a powerful method of editing, but tables are an admittedly weaker quality. This plugin makes it a little easier.
 
 ## AidenLx's Folder Note by AidenLx
 
@@ -36,15 +36,13 @@ This plugin allows users to create notes for a folder. When clicking on the fold
 
 ## Breadcrumbs by SkepticMystic
 
-Breadcrumbs is an organizational plugin with Obsidian. In short, it lets you define relationships between various notes, and better navigate through Obsidian thanks to this feature. It's hard to describe here- I would strongly recommend checking out Obsidian Hub's guide here: [Breadcrumbs Quickstart Guide](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Breadcrumbs+Quickstart+Guide)
+Breadcrumbs is an organizational plugin with Obsidian. In short, it lets you define relationships between various notes, and better navigate through Obsidian thanks to this feature. It's hard to describe- I would strongly recommend checking out Obsidian Hub's guide here: [Breadcrumbs Quickstart Guide](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Breadcrumbs+Quickstart+Guide)
 
 Breadcrumb's G
 
 ## Fantasy Calendar by Jeremy Valentine
 
-This plugin allows users to set up their own personalized fantasy calendars within Obsidian.md. Obviously powerful, it also allows users to set up events within the 
-
-Offers personalized fantasy calendar integration into Obsidian.md. Useful if you are creating a custom time system.
+This plugin allows users to set up their own personalized fantasy calendars within Obsidian.md. These calendars can be displayed within Obsidian.md, and reference notes as events within that calendar.
 
 ## Folder Note Core by AidenLx
 
@@ -52,19 +50,19 @@ This is a dependency required for AidenLx's Folder note plugin.
 
 ## Obsidian Leaflet
 
-Maps within Obsidian.
+This allows for defining images as maps, and placing pins on the map that link back internally to Obsidian content. Very useful for designing fantasy dungeons, or labelling a fantasy map in general.
 
 ## Short Internal Links to Headings
 
-Shortens internal links to headings.
+This shortens internal links within Obsidian.md to just the headers, where applicable. It helps make the notes neater as a result.
 
 ## Tag Wrangler
 
-Rename, merges, and toggles tags in tag search pane.
+The Tag Wrangler plugin is a powerful addition that allows mass tag management, including merging, renaming, and other incredibly useful features. 
 
 ## Waypoint
 
-Allows dynamic and auto-updating content mapping within Obsidian.md.
+Among other very useful features, the Waypoint plugin allows dynamically updating table of contents for a folder. This is used within the folder notes for the category, and can be handy for world builders who like to review a folder's contents within a note.
 
 # Want to Donate?
 
