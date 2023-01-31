@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Society- Religion.md",
+                "file": "Templates/Group- Population.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Society- Religion.md",
+                "file": "Templates/Group- Population.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Society- Religion.md"
+                "file": "Templates/Group- Population.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Society- Religion.md",
+                "file": "Templates/Group- Population.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 760.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +229,7 @@
   },
   "active": "306286b63a539443",
   "lastOpenFiles": [
+    "Templates/Society- Religion.md",
     "Templates/Society- Occupation.md",
     "Templates/Society- Lore.md",
     "Templates/Society- Language.md",
@@ -237,7 +238,6 @@
     "Templates/Society- Economics.md",
     "Templates/Society- Customs.md",
     "Templates/Society- Art.md",
-    "Templates/Plan- Session Notes.md",
-    "Templates/Material- Weather.md"
+    "Templates/Plan- Session Notes.md"
   ]
 }
