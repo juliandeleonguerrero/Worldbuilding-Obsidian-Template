@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "503e2d9d76fabd8a",
+        "id": "88592242e79428e5",
         "type": "tabs",
         "children": [
           {
-            "id": "881de6234c299c62",
+            "id": "4697928075c692f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Society/Industry/Industry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "306286b63a539443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Group- Population.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Group- Population.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Group- Population.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Group- Population.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,55 +138,15 @@
             }
           },
           {
-            "id": "3f7f5a9c585189ef",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "c57d1a135130953b",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
             "id": "e90b3c4ac14d3345",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "84b546d67d5bd718",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d16964318298df9",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "837c34ca8ad572e7",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -223,21 +162,20 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "306286b63a539443",
+  "active": "4697928075c692f9",
   "lastOpenFiles": [
+    "Society/Industry/Industry.md",
+    "Material/Metaphysics/Metaphysics.md",
+    "Material/Afflictions/Afflictions.md",
+    "Material/Agriculture/Agriculture.md",
+    "Material/Climate/Climate.md",
     "Templates/Society- Religion.md",
+    "Templates/Plan- Session Notes.md",
     "Templates/Society- Occupation.md",
-    "Templates/Society- Lore.md",
-    "Templates/Society- Language.md",
     "Templates/Society- Industry.md",
-    "Templates/Society- Education.md",
-    "Templates/Society- Economics.md",
-    "Templates/Society- Customs.md",
-    "Templates/Society- Art.md",
-    "Templates/Plan- Session Notes.md"
+    "Templates/Location- Region.md"
   ]
 }
