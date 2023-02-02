@@ -2,9 +2,9 @@
 
 # About
 
-This repository contains a premade Obsidian vault, with pre-organized folders and templates to help you get started. Some helpful plugins have also been bundled into this repository!
+This is a worldbuilding vault template for Obsidian. It contains a carefully considered folder organization structure, instructional folder notes, along with various templates that are already tagged for your worldbuilding purposes. Some helpful plugins have also been bundled into this vault.
 
-Each template file comes pre-tagged and pre-formatted. The vault is made with the assumption of a typical Tolkien-eque fantasy world, though this really only impacts the folder organization- the templates are usually reusable for other settings.
+This worldbuilding vault is made with the assumption of a typical Tolkien-esque fantasy world, though this really only impacts folder organization- the templates are very reusable for other settings.
 
 # How to install
 
@@ -63,6 +63,10 @@ The Tag Wrangler plugin is a powerful addition that allows mass tag management, 
 ## Waypoint
 
 Among other very useful features, the Waypoint plugin allows dynamically updating table of contents for a folder. This is used within the folder notes for the category, and can be handy for world builders who like to review a folder's contents within a note.
+
+## And the ITS Theme
+
+While not technically a plugin, the ITS theme looks slick as all heck, and most importantly makes a number of changes to the infobox feature in Obisidan- giving it a wiki-like appearance perfect for your worldbuilding.
 
 # Want to Donate?
 
