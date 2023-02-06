@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "88592242e79428e5",
+        "id": "eaf0b40d39145ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "4697928075c692f9",
+            "id": "82bf16f99f13c270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b3887ee60a25e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Plugin and Theme Documentation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Plugin and Theme Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Documentation/Plugin and Theme Documentation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Plugin and Theme Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +165,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "4b3887ee60a25e03",
+  "active": "82bf16f99f13c270",
   "lastOpenFiles": [
     "Documentation/Documentation.md",
+    "Documentation/Plugins and Theme.md",
     "Documentation/Help- Callouts in the ITS theme.md",
     "Templates/Narrative/Plan- Session Notes.md",
     "Narrative and Planning/Session Notes/Session Notes.md",
@@ -196,7 +176,6 @@
     "Society/Society.md",
     "Society/Education/Education.md",
     "Material/Currency/Currency.md",
-    "Material/Material.md",
-    "Narrative and Planning/Storylines/Storylines.md"
+    "Material/Material.md"
   ]
 }
