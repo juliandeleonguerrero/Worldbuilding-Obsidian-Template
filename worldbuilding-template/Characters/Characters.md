@@ -48,6 +48,7 @@ However...
 		- Perhaps a ruler or significant governing character within this region.
 		- Sub-region, such as a kingdom or fiefdom.
 			- More sub-regions and people who fit within those subregions.
+
 This organization structure:
 - Places strong emphasis on the space where the characters live within.
 - Is very useful for finding characters.
@@ -60,7 +61,17 @@ However...
 	- Kings
 	- Adventurers
 	- Gods
-	- 
+	- Generals
+	- Academics
+
+This organization structure:
+- Places a strong emphasis on a person's "position" within the world.
+- Is helpful for finding characters, given sufficient breakdown by position.
+However...
+- This organization structure can suffer if several named people within a world/story share the same position.
+- It ignores the very real idea that someone's position can drastically change in their lifetime.
+- It is a categorical pigeonholing of characters into their positions in life.
+- It is probably best paired in a hybrid manner with other forms of categorization as a result of these weaknesses.
 # Table of Contents
 %% Begin Waypoint %%
 

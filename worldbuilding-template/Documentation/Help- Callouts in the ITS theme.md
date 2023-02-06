@@ -1,7 +1,5 @@
----
-tags:
-- doc
----
+# Callouts
+Callouts are a [native feature](https://help.obsidian.md/How+to/Use+callouts) of Obsidian.md, enhanced by the default theme included within this template (the ITS theme). The documentation below is a copy of the [ITS theme's documentation on callouts](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md).
 # Callouts
 > **[Get Callout Snippet](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css)**
 
@@ -9,17 +7,17 @@ tags:
 
 | Type | Description |
 | --- | --- |
-| `[!infobox]` | Wikipedia-like infoboxes: [How to Format](Callouts.md#infoboxes) |
+| `[!infobox]` | Wikipedia-like infoboxes: [How to Format](Help-%20Callouts%20in%20the%20ITS%20theme.md#infoboxes) |
 | `[!captions]` | Displays text around image in the style of a caption |
-| `[!kanban]` | Displays a (functionally limited) kanban board: [How to Format](Callouts.md#kanban) |
-| `[!grid]` | Display images in a grid/masonry style: [How to Format](Callouts.md#image-grid) |
+| `[!kanban]` | Displays a (functionally limited) kanban board: [How to Format](Help-%20Callouts%20in%20the%20ITS%20theme.md#kanban) |
+| `[!grid]` | Display images in a grid/masonry style: [How to Format](Help-%20Callouts%20in%20the%20ITS%20theme.md#image-grid) |
 | `[!recite]` | A D&D styled popout |
 | `[!metadata]` | Styled callout that colors \*\*bold\*\* words, table headers, and inline dataview keys blue |
-| `[!cards]` | Style images and dataview tables like notion's gallery view: [How to Format](Callouts.md#cards) |
+| `[!cards]` | Style images and dataview tables like notion's gallery view: [How to Format](Help-%20Callouts%20in%20the%20ITS%20theme.md#cards) |
 | `[!table]` | Prevent table from wrapping |
 | `[!aside]` | Add asides to the side of notes |
-| `[!timeline]` | Style callout as a vertical Timeline [How to Format](Callouts.md#timeline) |
-| `[!column]` | Style inner callouts as columns: [How to Format](Callouts.md#column) |
+| `[!timeline]` | Style callout as a vertical Timeline [How to Format](Help-%20Callouts%20in%20the%20ITS%20theme.md#timeline) |
+| `[!column]` | Style inner callouts as columns: [How to Format](Help-%20Callouts%20in%20the%20ITS%20theme.md#column) |
 
 # Adjustments
 **Format Syntax:**

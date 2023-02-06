@@ -4,7 +4,7 @@ tags:
 - category
 ---
 # Groups
-If the organization exists and is worth mentioning, it should be stored here. 
+If an organization or group exists and is worth mentioning, it should be stored here. 
 # Folder Organization
 There are six group types accounted for in the templates. There is no harm in picking the wrong template initially- it is easy to re-tag an article and edit it to your tastes.
 ### Combat

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Templates/Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Templates/Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Characters.md"
+                "file": "Templates/Templates.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Templates/Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,15 +175,15 @@
   },
   "active": "4697928075c692f9",
   "lastOpenFiles": [
-    "Templates/Society/Society- Art.md",
-    "Templates/Narrative/Plan- Session Notes.md",
-    "Templates/Material/Material- Afflictions.md",
-    "Templates/Location/Location- Cosmology.md",
-    "Templates/Life/Group- Combat.md",
-    "Characters/Characters.md",
-    "Characters/Gods/Gods.md",
-    "Events/Events.md",
-    "Society/Industry/Industry.md",
-    "Material/Metaphysics/Metaphysics.md"
+    "Society/Society.md",
+    "Society/Education/Education.md",
+    "Material/Currency/Currency.md",
+    "Material/Material.md",
+    "Narrative and Planning/Storylines/Storylines.md",
+    "Narrative and Planning/Session Notes/Session Notes.md",
+    "Narrative and Planning/About/About.md",
+    "Narrative and Planning/Narrative and Planning.md",
+    "Material/Resources/Resources.md",
+    "Material/Objects/Objects.md"
   ]
 }

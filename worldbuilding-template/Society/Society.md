@@ -27,3 +27,16 @@ Religions themselves should be noted here- though there may be heavy overlap bet
 Another way of organizing these folders would be to create subfolders below the base Society folder, with each subfolder pertaining to a specific society. From there, duplicate the default folders within the Society folder, apart from language, religion, and occupations. 
 
 This is helpful if you want a society-specific breakdown of cultural artifacts, while still maintaining some globally-applicable folders.
+# Table of Contents
+%% Begin Waypoint %%
+- **[[Art]]**
+- **[[Customs]]**
+- **[[Economics]]**
+- **[[Education]]**
+- **[[Industry]]**
+- **[[Language]]**
+- **[[Lore]]**
+- **[[Occupations]]**
+- **[[Religion]]**
+
+%% End Waypoint %%
