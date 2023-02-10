@@ -9,7 +9,6 @@ The documentation folder exists to outline useful tips for managing and using th
 %% Begin Waypoint %%
 - [[Getting Started]]
 - **Images**
-
 - [[Plugins and Theme]]
 
 %% End Waypoint %%

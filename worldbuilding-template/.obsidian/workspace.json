@@ -175,15 +175,15 @@
   },
   "active": "f78eaf07decaa8cd",
   "lastOpenFiles": [
-    "Documentation/Getting Started.md",
-    "Documentation/Plugins and Theme.md",
-    "Documentation/Images/getting-started.png",
-    "Documentation/Documentation.md",
-    "Documentation/getting-started.png.md",
-    "Documentation/Help- Callouts in the ITS theme.md",
-    "Templates/Narrative/Plan- Session Notes.md",
-    "Narrative and Planning/Session Notes/Session Notes.md",
+    "Templates/Characters/Character.md",
+    "Characters/Characters.md",
+    "Life/Humanoids/Humanoids.md",
+    "Life/Fauna/Fauna.md",
+    "Templates/Categories/Folder Note Template.md",
     "Templates/Templates.md",
-    "Society/Society.md"
+    "Society/Religion/Religion.md",
+    "Society/Occupations/Occupations.md",
+    "Society/Lore/Lore.md",
+    "Society/Language/Language.md"
   ]
 }
