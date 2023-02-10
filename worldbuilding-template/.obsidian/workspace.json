@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eaf0b40d39145ca6",
+        "id": "6da0733ff73fc221",
         "type": "tabs",
         "children": [
           {
-            "id": "82bf16f99f13c270",
+            "id": "f78eaf07decaa8cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Getting Started.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documentation/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Documentation/Getting Started.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documentation/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,21 +169,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "82bf16f99f13c270",
+  "active": "f78eaf07decaa8cd",
   "lastOpenFiles": [
-    "Documentation/Documentation.md",
+    "Documentation/Getting Started.md",
     "Documentation/Plugins and Theme.md",
+    "Documentation/Images/getting-started.png",
+    "Documentation/Documentation.md",
+    "Documentation/getting-started.png.md",
     "Documentation/Help- Callouts in the ITS theme.md",
     "Templates/Narrative/Plan- Session Notes.md",
     "Narrative and Planning/Session Notes/Session Notes.md",
     "Templates/Templates.md",
-    "Society/Society.md",
-    "Society/Education/Education.md",
-    "Material/Currency/Currency.md",
-    "Material/Material.md"
+    "Society/Society.md"
   ]
 }
