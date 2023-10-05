@@ -72,6 +72,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "82b040f301166580",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -138,23 +146,23 @@
             }
           },
           {
-            "id": "5ac590876b2ecb60",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "e90b3c4ac14d3345",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "778b4bbe99da87fd",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,8 +177,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "f78eaf07decaa8cd",
