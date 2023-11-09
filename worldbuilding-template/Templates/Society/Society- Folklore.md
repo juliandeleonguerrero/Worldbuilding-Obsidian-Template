@@ -1,18 +1,17 @@
 ---
 tags:
-- art
+- lore
 - society
 ---
 > [!infobox]
 > # `{{title}}`
 > ![[Image.png|200]]
 > ###### About
-> | Type of Art |   |
+> | Lore Concept |   |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Creator |   |
-> | Owner |   |
-> | Location |  | 
+> | Participants |  |
+> | Connected to |   |
 
 # Description
 
@@ -20,13 +19,8 @@ tags:
 
 # History
 
-## Creation
-
-## Current Status
 
 
-
-# Legacy
-
+# Related
 
 

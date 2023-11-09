@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type of Creature |   |
 > | ---- | ---- |
@@ -13,10 +13,16 @@ tags:
 > | Area |  |
 > | Subspecies |   |
 > | Population |   |
-# {{Title}}
+# About {{Title}}
+
+
 
 # Distribution and Habitat
 
+
+
 # Behavior and Ecology
+
+
 
 # Cultural Significance

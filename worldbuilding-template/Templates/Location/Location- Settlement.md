@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type of Settlement |  |
 > | ---- | ---- |
@@ -20,12 +20,24 @@ tags:
 > | Religion |   |
 # Description
 
+
+
 # History
+
+
 
 # Culture
 
+
+
 # Significant locations in {{title}}
+
+
 
 # Residents
 
+
+
 # Other Notes
+
+

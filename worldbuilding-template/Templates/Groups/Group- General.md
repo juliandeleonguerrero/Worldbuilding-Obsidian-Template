@@ -1,27 +1,29 @@
 ---
 tags:
-- combat
+- general
 - group
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type |  |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Member Count |   |
-> | Headquarters/Base | |
+> | Headquarters | |
 > | Leader(s) |  |
+> | Member Count |   |
+| Ideology/Beliefs |   |
 > | Languages |  |
 > | Status |  |
-
 # Description
-## About
 
-## Abilities
+
 
 # History
 
+
+
 # Organization
+
 

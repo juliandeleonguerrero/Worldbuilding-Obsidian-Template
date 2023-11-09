@@ -1,6 +1,8 @@
 ---
 tags:
-- character
+  - character
+  - royal
+  - politic
 ---
 > [!infobox]
 > # `{{title}}`
@@ -10,10 +12,11 @@ tags:
 > | ---- | ---- |
 > | Gender |  |
 > | Species |  |
-> | Occupation/Class | |
+> | Position | |
+> | Born |   |
+> | Died |   |
+> | Reign |   |
 > | Residence |  |
-> | Birthplace |  |
-> | Birth Date |   |
 > | Status |  |
 > | Languages |  |
 > | Relatives |   |

@@ -11,17 +11,19 @@ To use a template, simply create a note and title it appropriately, and then ins
 - **Categories**
 	- [[Folder Note Template]]
 - **Characters**
+	- [[Character- God]]
+	- [[Character- Royalty]]
 	- [[Character]]
 - **Events**
 	- [[Event]]
 - **Groups**
-- **Life**
 	- [[Group- Combat]]
 	- [[Group- Commercial]]
 	- [[Group- General]]
 	- [[Group- Political]]
 	- [[Group- Population]]
 	- [[Group- Religious]]
+- **Life**
 	- [[Life- Animal]]
 	- [[Life- Humanoid]]
 	- [[Life- Magical]]
@@ -45,11 +47,16 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Material- Weather]]
 - **Narrative**
 	- [[Plan- Session Notes]]
+- **Rules**
+	- [[Rules- Action]]
+	- [[Rules- Condition]]
+	- [[Rules- Traits]]
 - **Society**
 	- [[Society- Art]]
 	- [[Society- Customs]]
 	- [[Society- Economics]]
 	- [[Society- Education]]
+	- [[Society- Folklore]]
 	- [[Society- Industry]]
 	- [[Society- Language]]
 	- [[Society- Lore]]

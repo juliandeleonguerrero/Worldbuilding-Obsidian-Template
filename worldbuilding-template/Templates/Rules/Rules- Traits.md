@@ -1,0 +1,8 @@
+---
+tags:
+  - rule
+  - trait
+---
+*Source: * 
+
+---

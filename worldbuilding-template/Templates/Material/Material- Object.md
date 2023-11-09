@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Object Type |   |
 > | ---- | ---- |
@@ -15,8 +15,14 @@ tags:
 > | Owner |  |
 > | Origin |   |
 
-# {{Title}}
+# About {{Title}}
+
+
 
 # History
 
+
+
 # Associated Lore
+
+

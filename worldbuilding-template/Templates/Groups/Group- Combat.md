@@ -1,23 +1,34 @@
 ---
 tags:
-- commercial
+- combat
 - group
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type |  |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Headquarters | |
-> | Leader(s) |  |
 > | Member Count |   |
-> | Wealth/Class |   |
+> | Headquarters/Base | |
+> | Leader(s) |  |
+> | Languages |  |
+> | Status |  |
 
 # Description
 
+## About
+
+
+
+## Abilities
+
+
+
 # History
+
+
 
 # Organization
 

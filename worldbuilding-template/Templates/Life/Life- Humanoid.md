@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Other Titles |   |
 > | ---- | ---- |
@@ -24,12 +24,20 @@ tags:
 >  | Other Traits |   |
 >  | Average Weight |   |
 
-# {{Title}}
+# About {{Title}}
+
+
 
 # Biology
 
+
+
 # Society
 
+
+
 # Culture
+
+
 
 # History

@@ -5,13 +5,18 @@ tags:
 ---
 > [!infobox]
 > # `{{Title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type of Industry/Industrial Practice |   |
 > | ---- | ---- |
 > | Other Titles |  |
+> | Production |   |
 > | Frequency |  |
 > | Participants |   |
-# {{Title}}
+> | Impacts |   |
+# About {{Title}}
+
+
 
 # History
+

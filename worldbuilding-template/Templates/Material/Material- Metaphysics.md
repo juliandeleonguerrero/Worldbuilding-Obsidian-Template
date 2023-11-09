@@ -3,6 +3,15 @@ tags:
 - material
 - physic
 ---
-# {{Title}}
+> [!infobox]
+> # `{{title}}`
+> ![[Image.png|200]]
+> ###### About
+> | Type of Concept |   |
+> | ---- | ---- |
+
+# About {{Title}}
+
+
 
 # History

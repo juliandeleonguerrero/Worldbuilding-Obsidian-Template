@@ -5,28 +5,64 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type of Faith |   |
 > | ---- | ---- |
 > | God(s) Worshipped |  |
+> | Governance |   |
+> | Sects |   |
+> | Headquarters |  |
+> | Practiced in |   |
 > | Members |  |
+> | Clergy |   |
 > | Prominent Scriptures |   |
-> | Region(s) |   |
 > | Founder |   |
-> 
-# {{Title}}
-
+> | Origin |   |
 # Description
 
-# Culture
 
-## Beliefs
+
+# Beliefs
+
+## Scripture
+
+
 
 ## Practices
 
+
+
 ## Holidays
 
-## Important Media
 
-## Symbols
+
+## Symbols/Media
+
+
+
+# History
+
+## Founding
+
+
+
+## Development
+
+
+## Today
+
+
+
+# Organization
+
+## Leadership
+
+
+
+## Clergy
+
+
+
+## Members
+

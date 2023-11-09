@@ -5,13 +5,17 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type of Custom/Tradition |   |
 > | ---- | ---- |
 > | Other Titles |  |
 > | Frequency |  |
 > | Participants |   |
-# {{Title}}
+
+# About {{Title}}
+
+
 
 # History
+

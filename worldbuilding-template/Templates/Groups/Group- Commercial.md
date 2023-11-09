@@ -1,11 +1,11 @@
 ---
 tags:
-- general
+- commercial
 - group
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type |  |
 > | ---- | ---- |
@@ -13,12 +13,15 @@ tags:
 > | Headquarters | |
 > | Leader(s) |  |
 > | Member Count |   |
-| Ideology/Beliefs |   |
-> | Languages |  |
-> | Status |  |
+> | Wealth/Class |   |
 
 # Description
 
+
+
 # History
 
+
+
 # Organization
+

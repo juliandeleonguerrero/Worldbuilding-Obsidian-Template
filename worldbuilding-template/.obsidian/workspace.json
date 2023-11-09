@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Getting Started.md",
+                "file": "Templates/Location/Location- Region.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Getting Started.md",
+                "file": "Templates/Location/Location- Region.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Getting Started.md"
+                "file": "Templates/Location/Location- Region.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Getting Started.md",
+                "file": "Templates/Location/Location- Region.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,15 +183,33 @@
   },
   "active": "f78eaf07decaa8cd",
   "lastOpenFiles": [
+    "Templates/Location/Location- Landmark.md",
+    "Templates/Location/Location- Cosmology.md",
+    "Templates/Location/Location- Establishment.md",
+    "Templates/Location/Location- Settlement.md",
+    "Templates/Location/Location- Natural.md",
+    "Templates/Groups/Group- Commercial.md",
+    "Templates/Groups/Group- General.md",
+    "Templates/Groups/Group- Population.md",
+    "Templates/Life/Group- Population.md",
+    "Templates/Life/Group- General.md",
+    "Templates/Life/Group- Combat.md",
+    "Templates/Life/Group- Religious.md",
+    "Templates/Life/Group- Political.md",
+    "Templates/Groups/Group- Religious.md",
+    "Templates/Life/Group- Commercial.md",
+    "Templates/Groups/Group- Political.md",
+    "Templates/Life/Life- Plant.md",
+    "Templates/Life/Life- Humanoid.md",
     "Templates/Characters/Character.md",
-    "Characters/Characters.md",
-    "Life/Humanoids/Humanoids.md",
-    "Life/Fauna/Fauna.md",
-    "Templates/Categories/Folder Note Template.md",
-    "Templates/Templates.md",
-    "Society/Religion/Religion.md",
-    "Society/Occupations/Occupations.md",
-    "Society/Lore/Lore.md",
-    "Society/Language/Language.md"
+    "Templates/Society/Society- Folklore.md",
+    "Templates/Rules/Rules- Traits.md",
+    "Templates/Rules/Rules- Condition.md",
+    "Templates/Rules/Rules- Action.md",
+    "Templates/Rules",
+    "Templates/Groups/Group- Combat.md",
+    "Templates/Groups",
+    "Templates/Characters/Character- Royalty.md",
+    "Templates/Characters/Character- God.md"
   ]
 }

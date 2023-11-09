@@ -1,6 +1,8 @@
 ---
 tags:
-- character
+  - character
+  - religion
+  - god
 ---
 > [!infobox]
 > # `{{title}}`
@@ -9,15 +11,11 @@ tags:
 > | Titles |  |
 > | ---- | ---- |
 > | Gender |  |
-> | Species |  |
-> | Occupation/Class | |
-> | Residence |  |
-> | Birthplace |  |
-> | Birth Date |   |
-> | Status |  |
-> | Languages |  |
-> | Relatives |   |
-# About {{Title}}
+> | Species | [[Life/Divine/Gods]] |
+> | Domain(s) | |
+> | Worship locations |  |
+> | Relationships |  |
+# About {{title}}
 
 
 
@@ -40,3 +38,5 @@ tags:
 
 
 # Other Notes
+
+

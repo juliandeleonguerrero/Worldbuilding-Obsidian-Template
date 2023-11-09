@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # {{Title}}
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Occupation Type |   |
 > | ---- | ---- |
@@ -14,7 +14,11 @@ tags:
 > | Important {{Title}}s |   |
 # {{Title}}
 
+
+
 # History
+
+
 
 # Types
 

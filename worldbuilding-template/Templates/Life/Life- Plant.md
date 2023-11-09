@@ -5,15 +5,19 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type of Plant |   |
 > | ---- | ---- |
 > | Grows in |  |
 > | Subspecies |   |
 > | Rarity |   |
-# {{Title}}
+# About {{Title}}
+
+
 
 # Distribution and Ecosystem
+
+
 
 # Cultural Significance

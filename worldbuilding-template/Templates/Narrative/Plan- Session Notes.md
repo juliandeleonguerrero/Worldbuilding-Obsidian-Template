@@ -2,12 +2,18 @@
 tags:
 - planning
 ---
-# Last Session
+# Last Session Summary
+
+
 
 # {{Title}} Session Planning
 
-# Notes
+
+
+# Misc Notes
+
+
 
 # What Next
 
-# Misc Notes
+

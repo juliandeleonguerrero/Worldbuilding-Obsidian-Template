@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Location Type |   |
 > | ---- | ---- |
@@ -15,16 +15,32 @@ tags:
 # Description
 ## About
 
+
+
 ## Features
+
+
 
 ## Ecology
 
+
+
 ## Populations
+
+
 
 ## Climate
 
+
+
 # History
+
+
 
 # Significant locations in {{title}}
 
+
+
 # Other Notes
+
+

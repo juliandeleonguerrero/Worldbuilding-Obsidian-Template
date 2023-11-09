@@ -5,10 +5,26 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Magical Concept |   |
 > | ---- | ---- |
 > | Type of Magic |  |
 > | Power Level |  |
-# {{Title}}
+> | Origin/Caster|   |
+# Description
+
+
+
+# Origin/Casting
+
+
+
+# History
+
+
+
+
+
+
+

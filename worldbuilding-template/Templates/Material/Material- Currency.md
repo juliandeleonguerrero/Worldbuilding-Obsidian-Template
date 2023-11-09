@@ -6,7 +6,7 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Currency of |   |
 > | ---- | ---- |
@@ -14,6 +14,18 @@ tags:
 > | Used in |  |
 > | Issuer/Minter |   |
 
-# {{Title}}
+# About {{Title}}
+
+## Value
+
+
+## Appearance
+
+
+## Issuing Authority/Minter
+
+
 
 # History
+
+

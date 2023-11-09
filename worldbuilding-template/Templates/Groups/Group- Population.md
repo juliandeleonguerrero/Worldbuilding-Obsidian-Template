@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type |  |
 > | ---- | ---- |
@@ -17,6 +17,10 @@ tags:
 
 # Description
 
+
+
 # History
+
+
 
 # Culture

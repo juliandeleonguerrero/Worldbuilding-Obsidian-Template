@@ -5,15 +5,22 @@ tags:
 ---
 > [!infobox]
 > # `{{title}}`
-> ![[Image.png|cover hsmall]]
+> ![[Image.png|200]]
 > ###### About
 > | Type of Theory/Discipline |   |
 > | ---- | ---- |
 > | Subject Field |   |
 > | Origin |   |
+> | Educators |   |
 
-# {{Title}}
+# About {{Title}}
+
+
 
 # History
 
+
+
 # Impact
+
+
