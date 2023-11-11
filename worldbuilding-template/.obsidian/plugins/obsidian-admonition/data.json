@@ -1,0 +1,74 @@
+{
+  "userAdmonitions": {
+    "loot": {
+      "type": "loot",
+      "color": "204, 170, 0",
+      "icon": {
+        "name": "coins",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Loot",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "lore": {
+      "type": "lore",
+      "color": "255, 185, 128",
+      "icon": {
+        "type": "rpg",
+        "name": "book"
+      },
+      "command": false,
+      "title": "Lore",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "narrate": {
+      "type": "narrate",
+      "color": "187, 226, 214",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-megaphone"
+      },
+      "command": false,
+      "title": "Narrate",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "danger": {
+      "type": "danger",
+      "color": "240, 56, 56",
+      "icon": {
+        "type": "obsidian",
+        "name": "fantasy-calendar-warning"
+      },
+      "command": false,
+      "title": "Danger!",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.1.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.2a6586"
+}

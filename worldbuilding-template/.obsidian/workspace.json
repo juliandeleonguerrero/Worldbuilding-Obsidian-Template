@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Location/Location- Region.md",
+                "file": "Documentation/Plugins and Theme.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,15 +56,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "991ac340dcacd212",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "445520c09732511a",
+        "type": "tabs",
+        "children": [
           {
             "id": "00073f033245567f",
             "type": "leaf",
@@ -96,29 +94,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0eeabecd5c5a134b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Templates/Location/Location- Region.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "9b0eb6eb3412faf9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Location/Location- Region.md"
+                "file": "Documentation/Plugins and Theme.md"
               }
             }
           },
@@ -134,12 +115,29 @@
             }
           },
           {
+            "id": "0eeabecd5c5a134b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentation/Plugins and Theme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "f34642fcf0b93b58",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Location/Location- Region.md",
+                "file": "Documentation/Plugins and Theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,21 +150,13 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "778b4bbe99da87fd",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,14 +167,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "f78eaf07decaa8cd",
   "lastOpenFiles": [
-    "Templates/Rules/Rules- Traits.md",
+    "Documentation/Getting Started.md",
+    "Templates/Templates.md",
     "Templates/Location/Location- Region.md",
+    "Templates/Rules/Rules- Traits.md",
     "Templates/Location/Location- Landmark.md",
     "Templates/Location/Location- Cosmology.md",
     "Templates/Location/Location- Establishment.md",
@@ -208,8 +199,6 @@
     "Templates/Rules/Rules- Condition.md",
     "Templates/Rules/Rules- Action.md",
     "Templates/Rules",
-    "Templates/Groups/Group- Combat.md",
-    "Templates/Groups",
-    "Templates/Characters/Character- Royalty.md"
+    "Templates/Groups"
   ]
 }
