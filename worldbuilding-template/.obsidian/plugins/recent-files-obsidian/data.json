@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Plugins and Theme",
-      "path": "Documentation/Plugins and Theme.md"
-    },
-    {
       "basename": "Getting Started",
       "path": "Documentation/Getting Started.md"
+    },
+    {
+      "basename": "Plugins and Theme",
+      "path": "Documentation/Plugins and Theme.md"
     }
   ],
   "omittedPaths": [],
