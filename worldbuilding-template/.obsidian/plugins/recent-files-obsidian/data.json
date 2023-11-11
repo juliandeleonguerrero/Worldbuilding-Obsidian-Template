@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Material- Afflictions",
+      "path": "Templates/Material/Material- Afflictions.md"
+    },
+    {
+      "basename": "Material- Object",
+      "path": "Templates/Material/Material- Object.md"
+    },
+    {
+      "basename": "Material- Maps",
+      "path": "Templates/Material/Material- Maps.md"
+    },
+    {
+      "basename": "Material- Magic",
+      "path": "Templates/Material/Material- Magic.md"
+    },
+    {
+      "basename": "Material- Metaphysics",
+      "path": "Templates/Material/Material- Metaphysics.md"
+    },
+    {
+      "basename": "Material- Geography",
+      "path": "Templates/Material/Material- Geography.md"
+    },
+    {
+      "basename": "Material- Currency",
+      "path": "Templates/Material/Material- Currency.md"
+    },
+    {
       "basename": "Getting Started",
       "path": "Documentation/Getting Started.md"
     },
     {
       "basename": "Plugins and Theme",
       "path": "Documentation/Plugins and Theme.md"
+    },
+    {
+      "basename": "Events",
+      "path": "Events/Events.md"
+    },
+    {
+      "basename": "Commercial",
+      "path": "Groups/Commercial/Commercial.md"
+    },
+    {
+      "basename": "Combat",
+      "path": "Groups/Combat/Combat.md"
+    },
+    {
+      "basename": "Character- God",
+      "path": "Templates/Characters/Character- God.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Characters/Character.md"
     }
   ],
   "omittedPaths": [],

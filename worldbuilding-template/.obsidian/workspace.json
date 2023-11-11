@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6da0733ff73fc221",
+        "id": "482e8866bb11a6a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f78eaf07decaa8cd",
+            "id": "31f8ad00a270a589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Getting Started.md",
+                "file": "Templates/Material/Material- Afflictions.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Getting Started.md"
+                "file": "Templates/Material/Material- Afflictions.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Getting Started.md",
+                "file": "Templates/Material/Material- Afflictions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Getting Started.md",
+                "file": "Templates/Material/Material- Afflictions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,11 +170,27 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f78eaf07decaa8cd",
+  "active": "31f8ad00a270a589",
   "lastOpenFiles": [
-    "Groups/Combat/Test.md",
+    "Events/Bob the builder.md",
+    "Templates/Material/Material- Afflictions.md",
+    "Templates/Material/Material- Object.md",
+    "Templates/Material/Material- Maps.md",
+    "Templates/Material/Material- Magic.md",
+    "Templates/Material/Material- Metaphysics.md",
+    "Templates/Material/Material- Geography.md",
+    "Templates/Material/Material- Currency.md",
     "Documentation/Getting Started.md",
     "Documentation/Plugins and Theme.md",
+    "Events/Events.md",
+    "Events/731 PC- Campaign Begins.md",
+    "Groups/Combat/The Molebreakers.md",
+    "Groups/Combat/The Molebreaker Haters.md",
+    "Groups/Commercial/Commercial.md",
+    "Groups/Combat/Combat.md",
+    "Templates/Characters/Character- God.md",
+    "Templates/Characters/Character.md",
+    "Groups/Combat/Test.md",
     "Templates/Templates.md",
     "Templates/Location/Location- Region.md",
     "Templates/Rules/Rules- Traits.md",
@@ -181,22 +198,6 @@
     "Templates/Location/Location- Cosmology.md",
     "Templates/Location/Location- Establishment.md",
     "Templates/Location/Location- Settlement.md",
-    "Templates/Location/Location- Natural.md",
-    "Templates/Groups/Group- Commercial.md",
-    "Templates/Groups/Group- General.md",
-    "Templates/Groups/Group- Population.md",
-    "Templates/Life/Group- Population.md",
-    "Templates/Life/Group- General.md",
-    "Templates/Life/Group- Combat.md",
-    "Templates/Life/Group- Religious.md",
-    "Templates/Life/Group- Political.md",
-    "Templates/Groups/Group- Religious.md",
-    "Templates/Life/Group- Commercial.md",
-    "Templates/Groups/Group- Political.md",
-    "Templates/Life/Life- Plant.md",
-    "Templates/Life/Life- Humanoid.md",
-    "Templates/Characters/Character.md",
-    "Templates/Society/Society- Folklore.md",
     "Templates/Rules",
     "Templates/Groups"
   ]

@@ -65,9 +65,11 @@
     "other": true,
     "advanced": false
   },
-  "icons": [],
+  "icons": [
+    "rpg"
+  ],
   "useFontAwesome": true,
-  "rpgDownloadedOnce": false,
+  "rpgDownloadedOnce": true,
   "msDocConverted": false,
   "useSnippet": false,
   "snippetPath": "custom-admonitions.2a6586"
