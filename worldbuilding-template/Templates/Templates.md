@@ -3,9 +3,11 @@ tags:
 - category
 ---
 # Templates
-The Templates folder exists to store templates that can be used throughout this worldbuilding project. Each template comes with basic tags already created, content headers pre-organized, and in some cases, infoboxes already created. Conveniently, they'll even grab the title of the note you've made, saving you on time editing!
 
-To use a template, simply create a note and title it appropriately, and then insert a template into that note. For convenience's sake, you can try setting a hotkey for inserting templates- I've found that Ctrl+Shift+i works very well.
+The Templates folder exists to store templates that can be used throughout the worldbuilding vault. Each template comes with basic tags already created, content headers pre-organized, and in some cases, infoboxes already created. Conveniently, they'll even grab the title of the note you've made, saving you on time editing!
+
+To use a template, simply create a note and title it appropriately, and then insert a template into that note. For convenience's sake, the default hotkey for inserting templates in this vault are **Ctrl+Shift+i**, but you can change the hotkey in the vault settings yourself, as desired.
+
 # Table of Contents
 %% Begin Waypoint %%
 - **Categories**

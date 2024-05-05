@@ -12,7 +12,7 @@ The documentation folder exists to outline useful tips for managing and using th
 %% Begin Waypoint %%
 - [[01- Getting Started]]
 - [[02- Best Practices]]
-- [[04- Git and Worldbuilding]]
+- [[04- Backups and Worldbuilding]]
 - **[[Images]]**
 
 - [[Plugins and Theme]]

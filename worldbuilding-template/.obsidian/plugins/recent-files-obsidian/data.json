@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "04- Backups and Worldbuilding",
+      "path": "Documentation/04- Backups and Worldbuilding.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
+    },
+    {
+      "basename": "01- Getting Started",
+      "path": "Documentation/01- Getting Started.md"
+    },
+    {
       "basename": "02- Best Practices",
       "path": "Documentation/02- Best Practices.md"
     },
@@ -9,20 +25,8 @@
       "path": "Documentation/Documentation.md"
     },
     {
-      "basename": "01- Getting Started",
-      "path": "Documentation/01- Getting Started.md"
-    },
-    {
       "basename": "Material- Crop",
       "path": "Templates/Material/Material- Crop.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "04- Git and Worldbuilding",
-      "path": "Documentation/04- Git and Worldbuilding.md"
     },
     {
       "basename": "Character",
