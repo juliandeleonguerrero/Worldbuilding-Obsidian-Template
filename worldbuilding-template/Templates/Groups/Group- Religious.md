@@ -1,6 +1,6 @@
 ---
 tags:
-- religion
+- religious
 - group
 ---
 > [!infobox]
@@ -28,3 +28,6 @@ tags:
 
 # Organization
 
+
+
+# Other Notes

@@ -1,7 +1,8 @@
 ---
-tag:
-- event
-- timeline
+tags:
+  - event
+  - timeline
+fc-date:
 ---
 > [!infobox]
 > # `{{title}}`

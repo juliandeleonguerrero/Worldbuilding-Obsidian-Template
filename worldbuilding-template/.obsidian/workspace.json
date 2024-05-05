@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "482e8866bb11a6a4",
+        "id": "ed86255a20674df7",
         "type": "tabs",
         "children": [
           {
-            "id": "31f8ad00a270a589",
+            "id": "5e198b92a5633b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Characters.md"
+                "file": "readme.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +172,22 @@
       "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "9b0eb6eb3412faf9",
+  "active": "5e198b92a5633b42",
   "lastOpenFiles": [
-    "Groups/Combat/Combat.md",
+    "Templates/Rules/Rules.md",
+    "readme.md",
     "Characters/Characters.md",
+    "Documentation/Documentation.md",
+    "Templates/Society/Society- Lore.md",
+    "Templates/Rules/Rules- Traits.md",
+    "Templates/Rules/Rules- Condition.md",
+    "Templates/Rules/Rules- Action.md",
+    "Templates/Rules",
+    "Templates/Narrative/Session Note.md",
+    "Templates/Material/Material- Crop.md",
+    "Templates/Location/Location- Nation.md",
+    "Templates/Location/Location- Dungeon.md",
+    "Groups/Combat/Combat.md",
     "Templates/Society/Society.md",
     "Templates/Narrative/Narrative.md",
     "Templates/Material/Material.md",
@@ -186,21 +198,9 @@
     "Templates/Characters/Characters.md",
     "Templates/Categories/Categories.md",
     "Documentation/Images/Images.md",
-    "Documentation/Documentation.md",
     "Templates/Material/Material- Afflictions.md",
     "Events/Bob the builder.md",
     "Templates/Material/Material- Object.md",
-    "Templates/Material/Material- Maps.md",
-    "Templates/Material/Material- Magic.md",
-    "Templates/Material/Material- Metaphysics.md",
-    "Templates/Material/Material- Geography.md",
-    "Templates/Material/Material- Currency.md",
-    "Documentation/Getting Started.md",
-    "Documentation/Plugins and Theme.md",
-    "Events/Events.md",
-    "Events/731 PC- Campaign Begins.md",
-    "Groups/Combat/The Molebreakers.md",
-    "Templates/Rules",
     "Templates/Groups"
   ]
 }

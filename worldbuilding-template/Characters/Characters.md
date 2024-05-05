@@ -4,10 +4,12 @@ tags:
 - folder-note
 ---
 # Characters
+
 Characters within the story can be placed here. Useful character notes usually include
 - What the character does/how they exist within the world.
 - Their motivations
 - And some reason for existing within the story.
+- 
 # Folder Organization
 World builders are encouraged to create their own folders and organize appropriately. Some common examples are depicted below:
 ## By Significance

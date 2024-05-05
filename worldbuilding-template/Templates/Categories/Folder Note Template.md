@@ -1,6 +1,6 @@
 ---
 tags:
-- folder-note
+- category
 ---
 # {{Title}}
 

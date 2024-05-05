@@ -24,3 +24,7 @@ tags:
 
 
 # Culture
+
+
+
+# Other Notes

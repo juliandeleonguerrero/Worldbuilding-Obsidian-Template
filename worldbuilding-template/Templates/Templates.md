@@ -1,6 +1,6 @@
 ---
 tags:
-- folder-note
+- category
 ---
 # Templates
 The Templates folder exists to store templates that can be used throughout this worldbuilding project. Each template comes with basic tags already created, content headers pre-organized, and in some cases, infoboxes already created. Conveniently, they'll even grab the title of the note you've made, saving you on time editing!
@@ -30,13 +30,16 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Life- Plant]]
 - **[[Location]]**
 	- [[Location- Cosmology]]
+	- [[Location- Dungeon]]
 	- [[Location- Establishment]]
 	- [[Location- Landmark]]
+	- [[Location- Nation]]
 	- [[Location- Natural]]
 	- [[Location- Region]]
 	- [[Location- Settlement]]
 - **[[Material]]**
 	- [[Material- Afflictions]]
+	- [[Material- Crop]]
 	- [[Material- Currency]]
 	- [[Material- Geography]]
 	- [[Material- Magic]]
@@ -47,6 +50,7 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Material- Weather]]
 - **[[Narrative]]**
 	- [[Plan- Session Notes]]
+	- [[Session Note]]
 - **[[Society]]**
 	- [[Society- Art]]
 	- [[Society- Customs]]
@@ -55,6 +59,7 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Society- Folklore]]
 	- [[Society- Industry]]
 	- [[Society- Language]]
+	- [[Society- Lore]]
 	- [[Society- Occupation]]
 	- [[Society- Religion]]
 

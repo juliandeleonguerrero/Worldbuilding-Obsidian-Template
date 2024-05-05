@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
       "basename": "Characters",
       "path": "Characters/Characters.md"
     },
     {
-      "basename": "Combat",
-      "path": "Groups/Combat/Combat.md"
-    },
-    {
       "basename": "Documentation",
       "path": "Documentation/Documentation.md"
+    },
+    {
+      "basename": "Combat",
+      "path": "Groups/Combat/Combat.md"
     },
     {
       "basename": "Material- Afflictions",

@@ -1,7 +1,7 @@
 ---
 tags:
-- customs
-- society
+  - society
+  - industry
 ---
 > [!infobox]
 > # `{{Title}}`

@@ -24,11 +24,20 @@ tags:
 
 
 
+## Appearance
+
+
+
+## Personality
+
+
+
 # History
 
 
 
-# Appearance
+
+# Abilities
 
 
 
@@ -37,8 +46,6 @@ tags:
 | ---------- | ------------ | ----- |
 |            |              |       |
 |            |              |       |
-
-# Abilities
 
 
 

@@ -1,6 +1,6 @@
 ---
 tags:
-- occupation
+- job
 - society
 ---
 > [!infobox]
@@ -20,5 +20,5 @@ tags:
 
 
 
-# Types
+# Other Notes
 

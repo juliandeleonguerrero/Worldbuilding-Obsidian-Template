@@ -1,7 +1,7 @@
 ---
 tags:
-- society
-- language
+  - society
+  - language
 ---
 > [!infobox]
 > # `{{title}}`
