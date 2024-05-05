@@ -1,6 +1,6 @@
 ---
 tags:
-- job
+- occupation
 - society
 ---
 > [!infobox]

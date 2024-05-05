@@ -2,7 +2,7 @@
 tags:
 - life
 - magic
-- category
+- folder-note
 ---
 # Magical
 Magical species such as dragons, slimes, or undead might go here.

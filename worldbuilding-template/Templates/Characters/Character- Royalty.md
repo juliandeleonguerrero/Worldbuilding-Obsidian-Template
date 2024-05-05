@@ -2,7 +2,7 @@
 tags:
   - character
   - royal
-  - politic
+  - political
 ---
 > [!infobox]
 > # `{{title}}`

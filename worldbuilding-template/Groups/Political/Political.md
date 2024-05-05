@@ -1,7 +1,7 @@
 ---
 tags:
-- politic
+- political
 - group
-- category
+- folder-note
 ---
 # Political

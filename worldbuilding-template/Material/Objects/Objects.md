@@ -2,7 +2,7 @@
 tags:
 - object
 - material
-- category
+- folder-note
 ---
 # Objects
 Important and/or unique items within your world, worthy of mention can be stored here.

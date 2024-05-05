@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Material/Material- Afflictions.md",
+                "file": "Characters/Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Material/Material- Afflictions.md"
+                "file": "Characters/Characters.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Material/Material- Afflictions.md",
+                "file": "Characters/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Material/Material- Afflictions.md",
+                "file": "Characters/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +151,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,13 +166,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "31f8ad00a270a589",
+  "active": "9b0eb6eb3412faf9",
   "lastOpenFiles": [
-    "Events/Bob the builder.md",
+    "Groups/Combat/Combat.md",
+    "Characters/Characters.md",
+    "Templates/Society/Society.md",
+    "Templates/Narrative/Narrative.md",
+    "Templates/Material/Material.md",
+    "Templates/Location/Location.md",
+    "Templates/Life/Life.md",
+    "Templates/Groups/Groups.md",
+    "Templates/Events/Events.md",
+    "Templates/Characters/Characters.md",
+    "Templates/Categories/Categories.md",
+    "Documentation/Images/Images.md",
+    "Documentation/Documentation.md",
     "Templates/Material/Material- Afflictions.md",
+    "Events/Bob the builder.md",
     "Templates/Material/Material- Object.md",
     "Templates/Material/Material- Maps.md",
     "Templates/Material/Material- Magic.md",
@@ -185,19 +200,6 @@
     "Events/Events.md",
     "Events/731 PC- Campaign Begins.md",
     "Groups/Combat/The Molebreakers.md",
-    "Groups/Combat/The Molebreaker Haters.md",
-    "Groups/Commercial/Commercial.md",
-    "Groups/Combat/Combat.md",
-    "Templates/Characters/Character- God.md",
-    "Templates/Characters/Character.md",
-    "Groups/Combat/Test.md",
-    "Templates/Templates.md",
-    "Templates/Location/Location- Region.md",
-    "Templates/Rules/Rules- Traits.md",
-    "Templates/Location/Location- Landmark.md",
-    "Templates/Location/Location- Cosmology.md",
-    "Templates/Location/Location- Establishment.md",
-    "Templates/Location/Location- Settlement.md",
     "Templates/Rules",
     "Templates/Groups"
   ]

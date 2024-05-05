@@ -2,7 +2,7 @@
 tags:
 - customs
 - society
-- category
+- folder-note
 ---
 # Customs
 Customs can include customs and traditions, common cultural practices, and other learned activities within the society.

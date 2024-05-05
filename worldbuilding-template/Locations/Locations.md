@@ -1,7 +1,7 @@
 ---
 Tags:
 - location
-- category
+- folder-note
 ---
 # Locations
 The locations folder is meant for outlining various locations within a fantasy world. 

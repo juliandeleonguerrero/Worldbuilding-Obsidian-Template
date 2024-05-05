@@ -1,8 +1,8 @@
 ---
 tags:
-- edu
+- education
 - society
-- category
+- folder-note
 ---
 # Education
 This includes teachings, fields of knowledge, and other fields of study notable within the world.

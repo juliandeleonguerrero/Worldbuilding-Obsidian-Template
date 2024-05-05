@@ -1,6 +1,6 @@
 ---
 tags:
-- religious
+- religion
 - group
 ---
 > [!infobox]

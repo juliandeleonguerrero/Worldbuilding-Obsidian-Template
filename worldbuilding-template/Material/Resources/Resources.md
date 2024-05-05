@@ -2,7 +2,7 @@
 tags:
 - resource
 - material
-- category
+- folder-note
 ---
 # Resources
 Information about iron, coal, wood, or your fantasy unobtainium of choice can be stored here.

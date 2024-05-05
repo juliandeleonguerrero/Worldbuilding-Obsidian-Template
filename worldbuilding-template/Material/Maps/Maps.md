@@ -2,7 +2,7 @@
 tags:
 - material
 - map
-- category
+- folder-note
 ---
 # Maps
 Maps about your world and other general information about these maps can be stored here.

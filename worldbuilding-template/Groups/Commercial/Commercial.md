@@ -1,7 +1,7 @@
 ---
 tags:
-- commerce
+- commercial
 - group
-- category
+- folder-note
 ---
 # Commercial

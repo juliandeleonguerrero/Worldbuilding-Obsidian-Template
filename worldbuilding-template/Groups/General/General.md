@@ -2,6 +2,6 @@
 tags:
 - general
 - group
-- category
+- folder-note
 ---
 # General

@@ -1,6 +1,6 @@
 ---
 tags:
-- pop
+- population
 - group
 ---
 > [!infobox]

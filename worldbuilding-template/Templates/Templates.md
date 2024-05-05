@@ -1,6 +1,6 @@
 ---
 tags:
-- category
+- folder-note
 ---
 # Templates
 The Templates folder exists to store templates that can be used throughout this worldbuilding project. Each template comes with basic tags already created, content headers pre-organized, and in some cases, infoboxes already created. Conveniently, they'll even grab the title of the note you've made, saving you on time editing!
@@ -8,34 +8,34 @@ The Templates folder exists to store templates that can be used throughout this 
 To use a template, simply create a note and title it appropriately, and then insert a template into that note. For convenience's sake, you can try setting a hotkey for inserting templates- I've found that Ctrl+Shift+i works very well.
 # Table of Contents
 %% Begin Waypoint %%
-- **Categories**
+- **[[Categories]]**
 	- [[Folder Note Template]]
-- **Characters**
+- **[[Characters]]**
 	- [[Character- God]]
 	- [[Character- Royalty]]
 	- [[Character]]
-- **Events**
+- **[[Events]]**
 	- [[Event]]
-- **Groups**
+- **[[Groups]]**
 	- [[Group- Combat]]
 	- [[Group- Commercial]]
 	- [[Group- General]]
 	- [[Group- Political]]
 	- [[Group- Population]]
 	- [[Group- Religious]]
-- **Life**
+- **[[Life]]**
 	- [[Life- Animal]]
 	- [[Life- Humanoid]]
 	- [[Life- Magical]]
 	- [[Life- Plant]]
-- **Location**
+- **[[Location]]**
 	- [[Location- Cosmology]]
 	- [[Location- Establishment]]
 	- [[Location- Landmark]]
 	- [[Location- Natural]]
 	- [[Location- Region]]
 	- [[Location- Settlement]]
-- **Material**
+- **[[Material]]**
 	- [[Material- Afflictions]]
 	- [[Material- Currency]]
 	- [[Material- Geography]]
@@ -45,9 +45,9 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Material- Object]]
 	- [[Material- Resource]]
 	- [[Material- Weather]]
-- **Narrative**
+- **[[Narrative]]**
 	- [[Plan- Session Notes]]
-- **Society**
+- **[[Society]]**
 	- [[Society- Art]]
 	- [[Society- Customs]]
 	- [[Society- Economics]]
@@ -55,7 +55,6 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Society- Folklore]]
 	- [[Society- Industry]]
 	- [[Society- Language]]
-	- [[Society- Lore]]
 	- [[Society- Occupation]]
 	- [[Society- Religion]]
 

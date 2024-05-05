@@ -2,7 +2,7 @@
 tags:
 - plan
 - narrate
-- category
+- folder-note
 ---
 # Narrative and Planning
 The Narrative and Planning folder is meant to contain the authorial content of your world. Or, in other words:

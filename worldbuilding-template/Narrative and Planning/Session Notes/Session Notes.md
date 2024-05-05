@@ -1,7 +1,7 @@
 ---
 tags:
 - narrate
-- category
+- folder-note
 ---
 # Session Notes
 This folder is meant to help track session notes for world builders creating worlds for tabletop roleplaying games (TTRPGs), such as Pathfinder or GURPS.

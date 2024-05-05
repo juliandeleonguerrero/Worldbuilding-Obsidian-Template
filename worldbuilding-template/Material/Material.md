@@ -1,7 +1,7 @@
 ---
 tags:
 - material
-- category
+- folder-note
 ---
 # Material
 The Material folder is meant to contain physical circumstances in your world not described in other sections. 

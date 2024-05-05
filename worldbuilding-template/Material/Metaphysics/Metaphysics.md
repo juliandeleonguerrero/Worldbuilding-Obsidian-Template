@@ -2,7 +2,7 @@
 tags:
 - physic
 - material
-- category
+- folder-note
 ---
 # Metaphysics
 Do the foundational physical laws of your fantasy world vary from the real world? If so, that information can be stored here.

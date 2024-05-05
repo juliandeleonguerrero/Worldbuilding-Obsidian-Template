@@ -1,6 +1,6 @@
 ---
 tags:
-- edu
+- education
 - society
 ---
 > [!infobox]

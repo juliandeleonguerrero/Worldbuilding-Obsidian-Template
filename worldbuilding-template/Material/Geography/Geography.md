@@ -1,7 +1,7 @@
 ---
 tags:
 - material
-- geo
-- category
+- geography
+- folder-note
 ---
 # Geography

@@ -1,7 +1,7 @@
 ---
 tags:
 - group
-- pop
-- category
+- population
+- folder-note
 ---
 # Population

@@ -1,11 +1,16 @@
 [
-  "folder-note-core",
-  "alx-folder-note",
-  "table-editor-obsidian",
   "short-internal-links-to-headings",
   "obsidian-leaflet-plugin",
   "waypoint",
   "tag-wrangler",
   "recent-files-obsidian",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "folder-notes",
+  "table-editor-obsidian",
+  "calendarium",
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "quick-tagger",
+  "obsidian-style-settings",
+  "tabout"
 ]

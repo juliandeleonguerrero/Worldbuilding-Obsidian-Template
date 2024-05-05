@@ -1,7 +1,7 @@
 ---
 Tags:
  - event
- - category
+ - folder-note
 ---
 # Events
 Events within the world are contained here. Each event should have some basic details, including a name, a date, and pertinent information about the event.

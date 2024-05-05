@@ -1,7 +1,7 @@
 ---
 tags:
 - industry
-- category
+- folder-note
 - society
 ---
 # Industry

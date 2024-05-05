@@ -1,6 +1,6 @@
 ---
 tags:
-- politic
+- political
 - group
 ---
 > [!infobox]

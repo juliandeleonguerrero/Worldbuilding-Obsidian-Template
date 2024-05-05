@@ -1,7 +1,7 @@
 ---
 tags:
 - character
-- category
+- folder-note
 ---
 # Characters
 Characters within the story can be placed here. Useful character notes usually include

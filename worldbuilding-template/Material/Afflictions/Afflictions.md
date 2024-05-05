@@ -1,8 +1,8 @@
 ---
 tags:
 - material
-- afflict
-- category
+- affliction
+- folder-note
 ---
 # Afflictions
 Notes on disease, pestilence, and infection can be stored here.

@@ -1,8 +1,8 @@
 ---
 tags:
-- econ
+- economy
 - society
-- category
+- folder-note
 ---
 # Economy
 Economic systems, matters of currency, and other related information can be stored here.

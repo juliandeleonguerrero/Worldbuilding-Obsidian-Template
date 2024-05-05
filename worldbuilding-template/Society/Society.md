@@ -1,7 +1,7 @@
 ---
 tags:
 - society
-- category
+- folder-note
 ---
 # Society
 Lore about society as we know it can be found here. This is meant to contain cultural concepts created groups of people, and help organize it appropriately.

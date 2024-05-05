@@ -2,7 +2,7 @@
 tags:
 - material
 - currency
-- econ
+- economy
 ---
 > [!infobox]
 > # `{{title}}`

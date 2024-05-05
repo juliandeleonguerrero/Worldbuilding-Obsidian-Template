@@ -1,7 +1,7 @@
 ---
 tags:
 - material
-- afflict
+- affliction
 ---
 > [!infobox]
 > # `{{title}}`

@@ -2,8 +2,8 @@
 tags:
 - currency
 - material
-- category
-- econ
+- folder-note
+- economy
 ---
 # Currency
 Currencies found within your world can be stored here.

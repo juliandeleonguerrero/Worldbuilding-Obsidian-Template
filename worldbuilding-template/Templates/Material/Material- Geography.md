@@ -1,7 +1,7 @@
 ---
 tags:
 - material
-- geo
+- geography
 ---
 # About {{Title}}
 

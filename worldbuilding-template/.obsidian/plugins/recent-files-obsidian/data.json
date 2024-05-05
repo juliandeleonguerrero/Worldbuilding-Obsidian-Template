@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Characters",
+      "path": "Characters/Characters.md"
+    },
+    {
+      "basename": "Combat",
+      "path": "Groups/Combat/Combat.md"
+    },
+    {
+      "basename": "Documentation",
+      "path": "Documentation/Documentation.md"
+    },
+    {
       "basename": "Material- Afflictions",
       "path": "Templates/Material/Material- Afflictions.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "Commercial",
       "path": "Groups/Commercial/Commercial.md"
-    },
-    {
-      "basename": "Combat",
-      "path": "Groups/Combat/Combat.md"
     },
     {
       "basename": "Character- God",

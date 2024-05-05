@@ -1,8 +1,8 @@
 ---
 tags:
-- lang
+- language
 - society
-- category
+- folder-note
 ---
 # Language
 Both verbal and non-verbal language can be noted here.

@@ -1,7 +1,7 @@
 ---
 tags:
 - narrate
-- category
+- folder-note
 ---
 # Storylines
 This folder is meant to contain story arcs, ongoing plots, and other information meant to help you outline what is happening in your world.

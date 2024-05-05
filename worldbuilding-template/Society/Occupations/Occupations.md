@@ -1,8 +1,8 @@
 ---
 tags:
-- job
+- occupation
 - society
-- category
+- folder-note
 ---
 # Occupations
 Careers, jobs, and ways of living life that allow continuance of life should be documented here.

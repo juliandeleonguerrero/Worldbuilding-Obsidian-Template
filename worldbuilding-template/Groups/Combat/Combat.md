@@ -2,6 +2,6 @@
 tags:
 - combat
 - group
-- category
+- folder-note
 ---
 # Combat

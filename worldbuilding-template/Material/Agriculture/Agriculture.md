@@ -1,8 +1,8 @@
 ---
 tags:
 - material
-- agr
-- category
+- agriculture
+- folder-note
 ---
 # Agriculture
 Notes on crops, agricultural practice, and other domesticated plant yield can be stored here.

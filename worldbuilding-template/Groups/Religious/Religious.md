@@ -2,6 +2,6 @@
 tags:
 - religion
 - group
-- category
+- folder-note
 ---
 # Religious

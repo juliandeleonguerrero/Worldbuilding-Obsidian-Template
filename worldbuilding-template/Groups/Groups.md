@@ -1,7 +1,7 @@
 ---
 tags:
 - group
-- category
+- folder-note
 ---
 # Groups
 If an organization or group exists and is worth mentioning, it should be stored here. 

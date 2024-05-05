@@ -2,7 +2,7 @@
 tags:
 - climate
 - material
-- category
+- folder-note
 ---
 # Climate
 Information about climate and weather patterns can be stored here.

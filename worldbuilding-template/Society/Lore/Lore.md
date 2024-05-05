@@ -2,7 +2,7 @@
 tags:
 - society
 - lore
-- category
+- folder-note
 ---
 # Lore
 In-world stories, folklore, and other commonly shared information within the world should be documented here.

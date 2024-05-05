@@ -2,7 +2,7 @@
 tags:
 - plant
 - life
-- category
+- folder-note
 ---
 # Plant
 For various plants and fungi in your world.

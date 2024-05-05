@@ -1,9 +1,9 @@
 ---
 tags:
-- specie
+- species
 - animal
 - life
-- category
+- folder-note
 ---
 # Animal
 For the birds, the bees, and animals of all kinds.
