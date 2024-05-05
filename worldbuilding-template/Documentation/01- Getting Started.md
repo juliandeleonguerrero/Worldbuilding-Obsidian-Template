@@ -20,6 +20,12 @@ Find yourself needing another template not already provided? Go ahead and create
 
 As always, if you aren't happy with a template feel free to edit it. It's your world, with your own needs!
 
+# Opening Folder Notes
+
+This template comes with the Folder Notes plugin, which effectively turns folders into notes as well, allowing you to nest notes under other notes. While this is explained in greater detail in the plugin documentation, folder notes are useful for documenting what the folder is meant to contain, and for showing a table of contents using another plugin.
+
+Without getting into too much detail here, the default settings of this template allow you to open the folder note by clicking directly on the name, and open and close the folder itself by clicking anywhere else within its selection area.
+
 # How Obsidian Works
 
 Rather than explaining here, I recommend reading Obsidian's documentation [here](https://help.obsidian.md/How+to/Add+custom+styles). I specifically recommend skimming through the "Getting Started" and "How To" sections.

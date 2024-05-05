@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "884e57d6ed85cefb",
+        "id": "54da506d9848b8fa",
         "type": "tabs",
         "children": [
           {
-            "id": "15cc612f583029d9",
+            "id": "60277c048ecfdbaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/02- Best Practices.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -96,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Documentation/02- Best Practices.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documentation/02- Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documentation/02- Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,18 +181,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "15cc612f583029d9",
+  "active": "60277c048ecfdbaa",
   "lastOpenFiles": [
-    "Templates/Characters/Character.md",
-    "Documentation/02- Best Practices.md",
     "Documentation/Documentation.md",
     "Documentation/01- Getting Started.md",
+    "Documentation/02- Best Practices.md",
+    "Templates/Material/Material- Crop.md",
+    "README.md",
+    "Documentation/04- Git and Worldbuilding.md",
+    "Templates/Characters/Character.md",
     "Image.png.md",
     "Templates/Characters/Characters.md",
     "Templates/Characters/Character- Royalty.md",
@@ -197,7 +208,6 @@
     "Documentation/Images/tags-example-gods.png",
     "Documentation/Images/file-explorer-obsidian-getting-started.png",
     "Documentation/Plugins and Theme.md",
-    "README.md",
     "Templates/Rules/Rules.md",
     "Characters/Characters.md",
     "Templates/Society/Society- Lore.md",
@@ -206,13 +216,11 @@
     "Templates/Rules/Rules- Action.md",
     "Templates/Rules",
     "Templates/Narrative/Session Note.md",
-    "Templates/Material/Material- Crop.md",
     "Templates/Location/Location- Nation.md",
     "Templates/Location/Location- Dungeon.md",
     "Groups/Combat/Combat.md",
     "Templates/Society/Society.md",
     "Templates/Narrative/Narrative.md",
-    "Templates/Material/Material.md",
     "Templates/Groups"
   ]
 }

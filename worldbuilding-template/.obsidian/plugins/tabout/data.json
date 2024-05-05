@@ -43,6 +43,13 @@
       ],
       "tokenMatcher": "",
       "jumpAfter": true
+    },
+    {
+      "lookups": [
+        ")"
+      ],
+      "tokenMatcher": "",
+      "jumpAfter": true
     }
   ]
 }
