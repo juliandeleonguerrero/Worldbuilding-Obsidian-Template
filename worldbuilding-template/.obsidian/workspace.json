@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed86255a20674df7",
+        "id": "884e57d6ed85cefb",
         "type": "tabs",
         "children": [
           {
-            "id": "5e198b92a5633b42",
+            "id": "15cc612f583029d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -31,6 +27,7 @@
       {
         "id": "f0e0f05ac0a7e3ef",
         "type": "tabs",
+        "dimension": 75.70951585976627,
         "children": [
           {
             "id": "7be5a2b68df6ec67",
@@ -62,6 +59,7 @@
       {
         "id": "445520c09732511a",
         "type": "tabs",
+        "dimension": 24.290484140233723,
         "children": [
           {
             "id": "00073f033245567f",
@@ -98,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,10 +146,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "543a174d81804f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a19a9c9ba50027",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +179,27 @@
       "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "5e198b92a5633b42",
+  "active": "15cc612f583029d9",
   "lastOpenFiles": [
-    "Templates/Rules/Rules.md",
-    "readme.md",
-    "Characters/Characters.md",
+    "Templates/Characters/Character.md",
+    "Documentation/02- Best Practices.md",
     "Documentation/Documentation.md",
+    "Documentation/01- Getting Started.md",
+    "Image.png.md",
+    "Templates/Characters/Characters.md",
+    "Templates/Characters/Character- Royalty.md",
+    "Templates/Characters/Character- God.md",
+    "Templates/Characters",
+    "Templates/Categories/Categories.md",
+    "Documentation/Images/template-screenshot.png",
+    "Documentation/Best Practices/Best Practices.md",
+    "Documentation/Best Practices",
+    "Documentation/Images/tags-example-gods.png",
+    "Documentation/Images/file-explorer-obsidian-getting-started.png",
+    "Documentation/Plugins and Theme.md",
+    "README.md",
+    "Templates/Rules/Rules.md",
+    "Characters/Characters.md",
     "Templates/Society/Society- Lore.md",
     "Templates/Rules/Rules- Traits.md",
     "Templates/Rules/Rules- Condition.md",
@@ -191,16 +213,6 @@
     "Templates/Society/Society.md",
     "Templates/Narrative/Narrative.md",
     "Templates/Material/Material.md",
-    "Templates/Location/Location.md",
-    "Templates/Life/Life.md",
-    "Templates/Groups/Groups.md",
-    "Templates/Events/Events.md",
-    "Templates/Characters/Characters.md",
-    "Templates/Categories/Categories.md",
-    "Documentation/Images/Images.md",
-    "Templates/Material/Material- Afflictions.md",
-    "Events/Bob the builder.md",
-    "Templates/Material/Material- Object.md",
     "Templates/Groups"
   ]
 }

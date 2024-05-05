@@ -4,10 +4,14 @@ tags:
 - folder-note
 ---
 # Documentation
-The documentation folder exists to outline useful tips for managing and using the worldbuilding template. It also includes links to documentation for the plugins/theme used for this template.
+
+The documentation folder exists to outline useful tips for managing and using the worldbuilding template. It also includes documentation for the plugins/theme used in this template.
+
 # Table of Contents
+
 %% Begin Waypoint %%
-- [[Getting Started]]
+- [[01- Getting Started]]
+- [[02- Best Practices]]
 - **[[Images]]**
 
 - [[Plugins and Theme]]

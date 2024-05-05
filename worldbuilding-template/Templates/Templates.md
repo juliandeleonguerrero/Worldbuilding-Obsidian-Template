@@ -8,27 +8,27 @@ The Templates folder exists to store templates that can be used throughout this 
 To use a template, simply create a note and title it appropriately, and then insert a template into that note. For convenience's sake, you can try setting a hotkey for inserting templates- I've found that Ctrl+Shift+i works very well.
 # Table of Contents
 %% Begin Waypoint %%
-- **[[Categories]]**
+- **Categories**
 	- [[Folder Note Template]]
-- **[[Characters]]**
+- **Characters**
 	- [[Character- God]]
 	- [[Character- Royalty]]
 	- [[Character]]
-- **[[Events]]**
+- **Events**
 	- [[Event]]
-- **[[Groups]]**
+- **Groups**
 	- [[Group- Combat]]
 	- [[Group- Commercial]]
 	- [[Group- General]]
 	- [[Group- Political]]
 	- [[Group- Population]]
 	- [[Group- Religious]]
-- **[[Life]]**
+- **Life**
 	- [[Life- Animal]]
 	- [[Life- Humanoid]]
 	- [[Life- Magical]]
 	- [[Life- Plant]]
-- **[[Location]]**
+- **Location**
 	- [[Location- Cosmology]]
 	- [[Location- Dungeon]]
 	- [[Location- Establishment]]
@@ -37,7 +37,7 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Location- Natural]]
 	- [[Location- Region]]
 	- [[Location- Settlement]]
-- **[[Material]]**
+- **Material**
 	- [[Material- Afflictions]]
 	- [[Material- Crop]]
 	- [[Material- Currency]]
@@ -48,10 +48,10 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Material- Object]]
 	- [[Material- Resource]]
 	- [[Material- Weather]]
-- **[[Narrative]]**
+- **Narrative**
 	- [[Plan- Session Notes]]
 	- [[Session Note]]
-- **[[Society]]**
+- **Society**
 	- [[Society- Art]]
 	- [[Society- Customs]]
 	- [[Society- Economics]]

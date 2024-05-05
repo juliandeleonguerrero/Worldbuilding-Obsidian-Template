@@ -1,0 +1,32 @@
+# Getting Started
+
+Before getting started, make sure that the you've opened the worldbuilding template correctly within Obsidian. It should look something like the following within the file navigation tab to your left:
+
+![[file-explorer-obsidian-getting-started.png|200]]
+
+If all of this is a folder deep, and/or you lack bundled plugins/themes, you may need to open the Obsidian vault with Obsidian.md at a different folder level. 
+
+# Renaming
+
+After opening the worldbuilding vault, you'll probably want to rename it for your own world. Renaming the root folder for the Obsidian vault in your system's file explorer will successfully rename your project in Obsidian.
+
+# Creating your first note
+
+Obsidian supports templates to make your life easier! The templates included with this worldbuilding template account for most of what you'll need for typical fantasy worldbuilding. Just create a note, and then press **Ctrl+Shift+i**. This is the hotkey to insert a template, and you can type out the template you need from there.
+
+Find yourself needing another template not already provided? Go ahead and create one under the Templates folder, as shown here:
+
+![[template-screenshot.png]]
+
+As always, if you aren't happy with a template feel free to edit it. It's your world, with your own needs!
+
+# How Obsidian Works
+
+Rather than explaining here, I recommend reading Obsidian's documentation [here](https://help.obsidian.md/How+to/Add+custom+styles). I specifically recommend skimming through the "Getting Started" and "How To" sections.
+
+# Further Reading
+
+If you are:
+- Unfamiliar with self-organization within Obsidian
+- Would like recommendations in general for worldbuilding
+- Or need an explanation of how the plugins in this vault work and help with your worldbuilding, I recommend reading through the rest of the documentation within the [[Documentation]] folder.

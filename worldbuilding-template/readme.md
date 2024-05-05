@@ -2,6 +2,13 @@
 tags:
   - documentation
 ---
-# About this Obsidian Vault
+# Getting Started
 
-In case you are reading this on Git
+Just want to get started without reading through all of the documentation? See the [[01- Getting Started]] article.
+
+
+
+
+
+
+

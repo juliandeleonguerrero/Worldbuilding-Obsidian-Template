@@ -12,21 +12,9 @@ This is included for easier table editing within Obsidian.md. Markdown is a powe
 
 [Advanced Tables Repository](https://github.com/tgrosinger/advanced-tables-obsidian)
 
-## AidenLx's Folder Note by AidenLx
-
-This plugin allows users to create notes associated with a folder. When clicking on the folder name directly, the folder note will open. This is very useful for documenting what a folder is about within the worldbuilding template, and allows world builders to do the same when they create worldbuilding content.
-
-[AidenLx's Folder Note Repository](https://github.com/aidenlx/alx-folder-note)
-
 # Admonition by Jeremy Valentine
 
 This plugin allows for users to create colored textboxes within Obsidian.md, with pre-defined icons and colors available. This can be handy for noting important facts, or for writing planned information for your RPG games.
-
-## Folder Note Core by AidenLx
-
-This is a dependency required for AidenLx's Folder note plugin.
-
-[Folder Note Core Repository](https://github.com/aidenlx/folder-note-core)
 
 ## Obsidian Leaflet by Valentine195
 

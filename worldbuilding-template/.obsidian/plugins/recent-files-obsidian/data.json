@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "readme",
-      "path": "readme.md"
+      "basename": "Character",
+      "path": "Templates/Characters/Character.md"
     },
     {
-      "basename": "Characters",
-      "path": "Characters/Characters.md"
+      "basename": "02- Best Practices",
+      "path": "Documentation/02- Best Practices.md"
     },
     {
       "basename": "Documentation",
       "path": "Documentation/Documentation.md"
+    },
+    {
+      "basename": "01- Getting Started",
+      "path": "Documentation/01- Getting Started.md"
+    },
+    {
+      "basename": "template-screenshot",
+      "path": "Documentation/Images/template-screenshot.png"
+    },
+    {
+      "basename": "file-explorer-obsidian-getting-started",
+      "path": "Documentation/Images/file-explorer-obsidian-getting-started.png"
+    },
+    {
+      "basename": "Plugins and Theme",
+      "path": "Documentation/Plugins and Theme.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Characters",
+      "path": "Characters/Characters.md"
     },
     {
       "basename": "Combat",
@@ -45,28 +69,12 @@
       "path": "Templates/Material/Material- Currency.md"
     },
     {
-      "basename": "Getting Started",
-      "path": "Documentation/Getting Started.md"
-    },
-    {
-      "basename": "Plugins and Theme",
-      "path": "Documentation/Plugins and Theme.md"
-    },
-    {
       "basename": "Events",
       "path": "Events/Events.md"
     },
     {
       "basename": "Commercial",
       "path": "Groups/Commercial/Commercial.md"
-    },
-    {
-      "basename": "Character- God",
-      "path": "Templates/Characters/Character- God.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Templates/Characters/Character.md"
     }
   ],
   "omittedPaths": [],
